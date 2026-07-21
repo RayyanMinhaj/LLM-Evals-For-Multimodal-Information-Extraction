@@ -1,0 +1,1844 @@
+[
+  {
+    "sentence_id": "VOA_EN_NW_2015.11.26.3074855_5",
+    "arg_text": "man",
+    "predicted": "Participant",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.11.26.3074855_5",
+    "arg_text": "officers",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.14.3417836_5",
+    "arg_text": "Barack Obama",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.14.3417836_5",
+    "arg_text": "Eisenhower Executive Office Building",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.14.3417836_18",
+    "arg_text": "Ieshia Evans",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.14.3417836_18",
+    "arg_text": "headquarters",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.10.3184811_28",
+    "arg_text": "Geneva",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.01.3264272_19",
+    "arg_text": "Shinzo Abe",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.01.3264272_19",
+    "arg_text": "Washington",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2889903_14",
+    "arg_text": "Istanbul",
+    "predicted": "Place",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2889903_14",
+    "arg_text": "protester",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.28.3654650_8",
+    "arg_text": "officers",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.28.3654650_8",
+    "arg_text": "woman",
+    "predicted": "Victim",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.28.3654650_8",
+    "arg_text": "Melilla",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.03.20.3242323_6",
+    "arg_text": "activist",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.03.20.3242323_6",
+    "arg_text": "Havana",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.21.3017239_45",
+    "arg_text": "Bashar Assad",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.21.3017239_55",
+    "arg_text": "coalition",
+    "predicted": "Attacker",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.21.3017239_55",
+    "arg_text": "Kobani",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.21.3017239_65",
+    "arg_text": "John McCain",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.10.3184933_8",
+    "arg_text": "supporters",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.10.3184933_14",
+    "arg_text": "Al Sharpton",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.10.3184933_14",
+    "arg_text": "Sylvia's Restaurant",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.15.3851683_2",
+    "arg_text": "Africa",
+    "predicted": "Origin",
+    "actual": "Origin"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.15.3851683_2",
+    "arg_text": "European",
+    "predicted": "Destination",
+    "actual": "Destination"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.15.3851683_26",
+    "arg_text": "migrants",
+    "predicted": "Participant",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.15.3851683_26",
+    "arg_text": "border",
+    "predicted": "Place",
+    "actual": "Destination"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.26.3392569_9",
+    "arg_text": "Iraqis",
+    "predicted": "Participant",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.26.3392569_27",
+    "arg_text": "forces",
+    "predicted": "Agent",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.26.3392569_27",
+    "arg_text": "vehicle",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635600_33",
+    "arg_text": "soldier",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635600_33",
+    "arg_text": "woman",
+    "predicted": "Recipient",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.22.3686805_21",
+    "arg_text": "Los Angeles",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.22.3686805_21",
+    "arg_text": "speaker",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.22.3686805_29",
+    "arg_text": "Paris",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.22.3686805_34",
+    "arg_text": "London",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.26.3022860_6",
+    "arg_text": "Martin Schulz",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.07.3135549_24",
+    "arg_text": "police",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.07.3135549_24",
+    "arg_text": "man",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.17.3640413_5",
+    "arg_text": "officials",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.17.3640413_5",
+    "arg_text": "Washington",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.17.3640413_16",
+    "arg_text": "Manhattan",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.27.3527400_27",
+    "arg_text": "Charlotte",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.30.3699085_18",
+    "arg_text": "Vladimir Putin",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.30.3699085_18",
+    "arg_text": "Washington",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.01.22.1835368_8",
+    "arg_text": "complex",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.01.22.1835368_8",
+    "arg_text": "vehicles",
+    "predicted": "Artifact",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.07.10.3936006_10",
+    "arg_text": "Islamic State",
+    "predicted": "Target",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.07.10.3936006_10",
+    "arg_text": "Old City",
+    "predicted": "Place",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.07.10.3936006_26",
+    "arg_text": "militants",
+    "predicted": "Participant",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.07.10.3936006_26",
+    "arg_text": "Mosul",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_11",
+    "arg_text": "Donald Trump",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_11",
+    "arg_text": "Taipei",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_14",
+    "arg_text": "Hangzhou",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_14",
+    "arg_text": "Barack Obama",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_45",
+    "arg_text": "Mao Zedong",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_45",
+    "arg_text": "Beijing",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_52",
+    "arg_text": "residence",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_52",
+    "arg_text": "Vladimir Putin",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.05.12.1912526_21",
+    "arg_text": "journalists",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.05.12.1912526_21",
+    "arg_text": "Donetsk",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.28.3166988_75",
+    "arg_text": "Huckabee",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.08.3842885_18",
+    "arg_text": "protester",
+    "predicted": "Participant",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.08.3842885_18",
+    "arg_text": "Moscow",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.10.3590360_22",
+    "arg_text": "Trump Tower",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.15.3767889_15",
+    "arg_text": "Venezuela",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.15.3767889_25",
+    "arg_text": "protester",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.15.3767889_25",
+    "arg_text": "Bolivarian National Police",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.07.08.1696918_0",
+    "arg_text": "opponents",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.12.3415627_26",
+    "arg_text": "Deray McKesson",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.12.3415627_26",
+    "arg_text": "Airline Highway",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.12.3415627_41",
+    "arg_text": "demonstrator",
+    "predicted": "Participant",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.12.3415627_41",
+    "arg_text": "police",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.12.3415627_41",
+    "arg_text": "Baton Rouge",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.05.3797975_30",
+    "arg_text": "weapons",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.05.3797975_30",
+    "arg_text": "Idlib",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.26.3916532_17",
+    "arg_text": "families",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.07.3891137_27",
+    "arg_text": "Donald Trump",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.07.3891137_27",
+    "arg_text": "Oval Office",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.12.08.3093406_17",
+    "arg_text": "protester",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.12.08.3093406_17",
+    "arg_text": "Moscow",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.11.3412014_16",
+    "arg_text": "woman",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.11.3412014_16",
+    "arg_text": "Baton Rouge",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.09.3410778_18",
+    "arg_text": "Mike Rawlings",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.09.3410778_18",
+    "arg_text": "headquarters",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.28.3437601_8",
+    "arg_text": "Erkan Cikat",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.28.3437601_8",
+    "arg_text": "soldiers",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.28.3437601_8",
+    "arg_text": "Marmaris",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.28.3437601_19",
+    "arg_text": "Binali Yildirim",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.02.2845998_6",
+    "arg_text": "woman",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.03.01.3214677_19",
+    "arg_text": "woman",
+    "predicted": "Participant",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.03.01.3214677_19",
+    "arg_text": "girl",
+    "predicted": "Participant",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.03.01.3214677_19",
+    "arg_text": "hospital",
+    "predicted": "Destination",
+    "actual": "Destination"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.22.3297950_4",
+    "arg_text": "police",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.15.3376757_15",
+    "arg_text": "Trucks",
+    "predicted": "Vehicle",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_0",
+    "arg_text": "missile",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_0",
+    "arg_text": "Syria",
+    "predicted": "Destination",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_1",
+    "arg_text": "Iran",
+    "predicted": "Attacker",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_1",
+    "arg_text": "missiles",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_5",
+    "arg_text": "missile",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_7",
+    "arg_text": "missiles",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_7",
+    "arg_text": "Iran",
+    "predicted": "Origin",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_7",
+    "arg_text": "Syria",
+    "predicted": "Destination",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_15",
+    "arg_text": "troops",
+    "predicted": "Participant",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_15",
+    "arg_text": "fighters",
+    "predicted": "Participant",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_16",
+    "arg_text": "fighter",
+    "predicted": "Participant",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_16",
+    "arg_text": "Free Syrian Army",
+    "predicted": "Participant",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_16",
+    "arg_text": "Damascus",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_18",
+    "arg_text": "missile",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_18",
+    "arg_text": "IS",
+    "predicted": "Target",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.09.3589149_15",
+    "arg_text": "Jerusalem",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.09.3589149_15",
+    "arg_text": "Hillary Rodham Clinton",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.09.3589149_23",
+    "arg_text": "Mohammad Javad Zarif",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.06.3583381_25",
+    "arg_text": "Hillary Clinton",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.06.3583381_25",
+    "arg_text": "Tea House",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.09.27.1758726_6",
+    "arg_text": "Hassan Rouhani",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.09.27.1758726_6",
+    "arg_text": "New York",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2888384_22",
+    "arg_text": "Senate Foreign Relations Committee",
+    "predicted": "Place",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2888384_22",
+    "arg_text": "Washington",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2888384_28",
+    "arg_text": "Times Square",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2888384_34",
+    "arg_text": "Vienna",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2888384_34",
+    "arg_text": "Reza Najafi",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.09.13.1749095_47",
+    "arg_text": "Baniyas",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.02.3491404_52",
+    "arg_text": "troops",
+    "predicted": "Agent",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.02.3491404_52",
+    "arg_text": "Nad Ali",
+    "predicted": "Destination",
+    "actual": "Destination"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.23.3431608_14",
+    "arg_text": "Warsaw",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.23.3431608_49",
+    "arg_text": "Ashraf Ghani",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.23.3431608_49",
+    "arg_text": "Warsaw",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.31.3572766_4",
+    "arg_text": "residence",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.31.3572766_4",
+    "arg_text": "Rodrigo Duterte",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.31.3572766_9",
+    "arg_text": "Rodrigo Duterte",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.31.3572766_9",
+    "arg_text": "the Great Hall of the People",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.22.3607054_31",
+    "arg_text": "Donald Trump",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.22.3734870_3",
+    "arg_text": "demonstrators",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.22.3734870_3",
+    "arg_text": "Bangkok",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.22.3734870_31",
+    "arg_text": "Bersih",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.22.3734870_31",
+    "arg_text": "Kuala Lumpur",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.22.3734870_42",
+    "arg_text": "men",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.22.3734870_42",
+    "arg_text": "police",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.22.3734870_42",
+    "arg_text": "Manila",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.15.3902402_26",
+    "arg_text": "police officers",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.25.3825261_4",
+    "arg_text": "soldiers",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.25.3825261_4",
+    "arg_text": "Mazar-i-Sharif",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.14.3190340_21",
+    "arg_text": "Ankara",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.14.3190340_21",
+    "arg_text": "Recep Tayyip Erdogan",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.19.3557471_19",
+    "arg_text": "baby",
+    "predicted": "Participant",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.19.3557471_19",
+    "arg_text": "Qayyarah",
+    "predicted": "Destination",
+    "actual": "Destination"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.19.3557471_26",
+    "arg_text": "Iraq",
+    "predicted": "Destination",
+    "actual": "Destination"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.19.3557471_26",
+    "arg_text": "vehicles",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.19.3557471_26",
+    "arg_text": "militants",
+    "predicted": "Participant",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.31.3878829_6",
+    "arg_text": "North Jakarta",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.31.3878829_6",
+    "arg_text": "men",
+    "predicted": "Participant",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.17.3854850_6",
+    "arg_text": "Recep Tayyip Erdogan",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.17.3854850_6",
+    "arg_text": "Oval Office",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.17.3854850_15",
+    "arg_text": "people",
+    "predicted": "Participant",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.17.3854850_15",
+    "arg_text": "Kayseri",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.01.21.1587732_10",
+    "arg_text": "hospital",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.12.17.3106664_13",
+    "arg_text": "activist",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.12.17.3106664_13",
+    "arg_text": "officers",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.12.17.3106664_13",
+    "arg_text": "Havana",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.08.3181623_14",
+    "arg_text": "Trucks",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.08.3181623_14",
+    "arg_text": "Oncupinar",
+    "predicted": "Destination",
+    "actual": "Origin"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.10.3411182_4",
+    "arg_text": "Kem Ley",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.11.3325807_27",
+    "arg_text": "Donald Trump",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.11.3325807_27",
+    "arg_text": "Omaha",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.24.3300395_30",
+    "arg_text": "Sameh Shoukry",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.24.3300395_30",
+    "arg_text": "Cairo",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.11.3460137_13",
+    "arg_text": "Srinagar",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.13.3328601_3",
+    "arg_text": "Badreddine",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.13.3328601_11",
+    "arg_text": "Badreddine",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.13.3328601_20",
+    "arg_text": "Mustafa Badreddine",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.13.3328601_20",
+    "arg_text": "Syria",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.20.3685521_0",
+    "arg_text": "Asia",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.20.3685521_3",
+    "arg_text": "Belgium",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.09.25.2978237_43",
+    "arg_text": "Rabbi Elliot J. Cosgrove",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.24.3823632_11",
+    "arg_text": "Donald Trump",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.24.3823632_11",
+    "arg_text": "White House",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.27.3436565_34",
+    "arg_text": "DeRay McKesson",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.27.3436565_34",
+    "arg_text": "Airline Highway",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.16.3769606_22",
+    "arg_text": "brother",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.19.3424061_26",
+    "arg_text": "boy",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.19.3424061_26",
+    "arg_text": "Taksim square",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.27.3527025_4",
+    "arg_text": "G. Doloi",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.27.3527025_4",
+    "arg_text": "base",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.05.3132000_10",
+    "arg_text": "protesters",
+    "predicted": "Agent",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.05.3132000_10",
+    "arg_text": "embassy",
+    "predicted": "Target",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.05.3132000_10",
+    "arg_text": "Tehran",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.05.3132000_14",
+    "arg_text": "demonstrators",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.05.3132000_14",
+    "arg_text": "Iran",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.05.3132000_25",
+    "arg_text": "Iraq",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.08.08.2908562_30",
+    "arg_text": "man",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.17.3679550_21",
+    "arg_text": "headquarters",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.10.3458597_10",
+    "arg_text": "Pakistanis",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.10.3458597_10",
+    "arg_text": "Lahore",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.30.3351608_9",
+    "arg_text": "Turkish",
+    "predicted": "Agent",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.30.3351608_9",
+    "arg_text": "artillery",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.30.3351608_9",
+    "arg_text": "border",
+    "predicted": "Origin",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.13.3283669_10",
+    "arg_text": "employee",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.13.3808915_21",
+    "arg_text": "Venezuela",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.13.3808915_21",
+    "arg_text": "police",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_0",
+    "arg_text": "Russia's",
+    "predicted": "Origin",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_4",
+    "arg_text": "police",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_5",
+    "arg_text": "station",
+    "predicted": "Origin",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_17",
+    "arg_text": "woman",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_23",
+    "arg_text": "officers",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_23",
+    "arg_text": "supporter",
+    "predicted": "Participant",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_23",
+    "arg_text": "Russia",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.03.04.3219688_8",
+    "arg_text": "Palestinian",
+    "predicted": "Agent",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.12.23.3115897_12",
+    "arg_text": "child",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.12.23.3115897_12",
+    "arg_text": "Santa Tracking Operations Center",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.07.2995399_8",
+    "arg_text": "Valentin Grossu",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.07.2995399_8",
+    "arg_text": "police",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.07.2995399_8",
+    "arg_text": "Chisinau",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.07.2995399_22",
+    "arg_text": "Teodor Chetrus",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.07.2995399_22",
+    "arg_text": "Chisinau",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.07.2995399_22",
+    "arg_text": "officer",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.17.3469525_13",
+    "arg_text": "San Diego State University",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.17.3469525_22",
+    "arg_text": "street",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.12.17.2562583_0",
+    "arg_text": "students",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.12.17.2562583_0",
+    "arg_text": "Pakistan",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_3",
+    "arg_text": "\u2019Ard Al-Hamra",
+    "predicted": "Target",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_3",
+    "arg_text": "regime units",
+    "predicted": "Attacker",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_6",
+    "arg_text": "Aleppo province",
+    "predicted": "Destination",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_6",
+    "arg_text": "warplanes",
+    "predicted": "Vehicle",
+    "actual": "Instrument"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_6",
+    "arg_text": "Russian",
+    "predicted": "Attacker",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_7",
+    "arg_text": "Islamic State terror group",
+    "predicted": "Target",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_7",
+    "arg_text": "west or south of the city",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_9",
+    "arg_text": "house",
+    "predicted": "Target",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_10",
+    "arg_text": "Aleppo",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_11",
+    "arg_text": "Aleppo",
+    "predicted": "Place",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_13",
+    "arg_text": "Syria",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_16",
+    "arg_text": "rebels",
+    "predicted": "Participant",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_16",
+    "arg_text": "districts",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_18",
+    "arg_text": "facility",
+    "predicted": "Target",
+    "actual": "Target"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_28",
+    "arg_text": "Aleppo",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.12.3461808_3",
+    "arg_text": "hospital",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.01.31.1841956_17",
+    "arg_text": "civilian",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.21.3519438_6",
+    "arg_text": "Women",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.21.3519438_6",
+    "arg_text": "Lahore",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.21.3519438_28",
+    "arg_text": "Ahmad Khan Rahami",
+    "predicted": "Agent",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.21.3519438_28",
+    "arg_text": "police",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.20.3643261_14",
+    "arg_text": "friends",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.14.3285847_32",
+    "arg_text": "Hillary Clinton",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.14.3285847_32",
+    "arg_text": "Jackson Diner",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_1",
+    "arg_text": "neighbors",
+    "predicted": "Participant",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_1",
+    "arg_text": "area",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_2",
+    "arg_text": "Ahmed",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_13",
+    "arg_text": "civilians",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_23",
+    "arg_text": "civilian",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_25",
+    "arg_text": "civilian",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_26",
+    "arg_text": "civilians",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_26",
+    "arg_text": "coalition",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_32",
+    "arg_text": "son",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2012.05.26.1105689_0",
+    "arg_text": "village",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2012.05.26.1105689_6",
+    "arg_text": "pro-government militiamen",
+    "predicted": "Attacker",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2012.05.26.1105689_6",
+    "arg_text": "victims",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2012.05.26.1105689_8",
+    "arg_text": "relatives",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2012.05.26.1105689_9",
+    "arg_text": "children",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2012.05.26.1105689_9",
+    "arg_text": "adults",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.28.3437456_32",
+    "arg_text": "Tesfamariam Berhe",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.28.3437456_32",
+    "arg_text": "Italy",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.28.3437456_32",
+    "arg_text": "police",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_0",
+    "arg_text": "Caracas",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_1",
+    "arg_text": "factions",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_3",
+    "arg_text": "Miranda state",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_3",
+    "arg_text": "soldier",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_8",
+    "arg_text": "Caracas",
+    "predicted": "Destination",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_8",
+    "arg_text": "Lilian Tintori",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_25",
+    "arg_text": "Demonstrators",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_25",
+    "arg_text": "Caracas",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.30.3309655_23",
+    "arg_text": "Hyatt Regency hotel",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.30.3309655_23",
+    "arg_text": "man",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.30.3309655_23",
+    "arg_text": "officers",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.14.3724228_12",
+    "arg_text": "Cambodia",
+    "predicted": "Giver",
+    "actual": "Recipient"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.14.3724228_12",
+    "arg_text": "U.S.",
+    "predicted": "Recipient",
+    "actual": "Giver"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.27.3393616_0",
+    "arg_text": "Egypt",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.27.3393616_28",
+    "arg_text": "students",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.27.3393616_30",
+    "arg_text": "Mariam",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.03.3705362_7",
+    "arg_text": "missile",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.03.3705362_7",
+    "arg_text": "Iran's Revolutionary Guard",
+    "predicted": "Agent",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.03.3705362_7",
+    "arg_text": "Iran",
+    "predicted": "Origin",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.03.3705362_67",
+    "arg_text": "warship",
+    "predicted": "Target",
+    "actual": "Instrument"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.03.3705362_67",
+    "arg_text": "Saudi",
+    "predicted": "Entity",
+    "actual": "Attacker"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.03.3705362_67",
+    "arg_text": "coast",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.13.3549797_38",
+    "arg_text": "fighters",
+    "predicted": "Participant",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.12.3327048_27",
+    "arg_text": "fighters",
+    "predicted": "Participant",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.12.3327048_27",
+    "arg_text": "police",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.12.3327048_36",
+    "arg_text": "Salahuddin Rabbani",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.12.3327048_36",
+    "arg_text": "Islamabad",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.27.3526898_8",
+    "arg_text": "Europe",
+    "predicted": "Destination",
+    "actual": "Destination"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.27.3526898_8",
+    "arg_text": "refugees",
+    "predicted": "Participant",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.23.3737435_4",
+    "arg_text": "man",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.10.30.1779904_17",
+    "arg_text": "camps",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.05.23.1666803_0",
+    "arg_text": "civilian",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.01.20.2605914_2",
+    "arg_text": "serviceman",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.01.20.2605914_2",
+    "arg_text": "Ukraine",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.17.3729391_7",
+    "arg_text": "Vladimir Putin",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.17.3729391_7",
+    "arg_text": "Washington",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.05.25.1921616_2",
+    "arg_text": "soldiers",
+    "predicted": "Participant",
+    "actual": "Police"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.05.25.1921616_2",
+    "arg_text": "Bangkok",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.05.25.1921616_11",
+    "arg_text": "complex",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.02.3358563_15",
+    "arg_text": "convoy",
+    "predicted": "Vehicle",
+    "actual": "Artifact"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.02.3358563_15",
+    "arg_text": "Syrian",
+    "predicted": "Place",
+    "actual": "Destination"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.05.3798460_19",
+    "arg_text": "Culiacan",
+    "predicted": "Origin",
+    "actual": "Place"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.05.3798460_19",
+    "arg_text": "Alfredo Beltran Leyva",
+    "predicted": "Agent",
+    "actual": "Person"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.10.3370380_11",
+    "arg_text": "friends",
+    "predicted": "Recipient",
+    "actual": "Entity"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.10.3370380_11",
+    "arg_text": "home",
+    "predicted": "Place",
+    "actual": "Place"
+  }
+]
