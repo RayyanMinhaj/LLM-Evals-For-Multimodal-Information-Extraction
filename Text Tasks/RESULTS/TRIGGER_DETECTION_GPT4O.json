@@ -1,0 +1,1154 @@
+[
+  {
+    "sentence_id": "VOA_EN_NW_2015.11.26.3074855_5",
+    "sentence": "Two Chicago police officers take a man into custody during a protest march, Wednesday, Nov. 25, 2015, in Chicago, the day after murder charges were brought against police officer Jason Van Dyke in the killing of 17-year-old Laquan McDonald",
+    "predicted": "custody",
+    "actual": "custody"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.14.3417836_5",
+    "sentence": "President Barack Obama speaks to the media at the bottom of a meeting at the Eisenhower Executive Office Building on the White House complex in Washington, July 13, 2016",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.14.3417836_18",
+    "sentence": "Protestor Ieshia Evans is detained by law enforcement near the headquarters of the Baton Rouge Police Department in Baton Rouge, Louisiana, July 9, 2016",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.10.3184811_28",
+    "sentence": "FILE - U.N. mediator for Syria Staffan de Mistura (R) arrives for a news conference on the Syrian peace talks outside President Wilson hotel in Geneva, Switzerland Feb. 3, 2016",
+    "predicted": "arrives",
+    "actual": "conference"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.01.3264272_19",
+    "sentence": "President Barack Obama meets with South Korean President Park Geun-hye, left, and Japanese Prime Minister Shinzo Abe during the Nuclear Security Summit in Washington, March 31, 2016",
+    "predicted": "meets",
+    "actual": "meets"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2889903_14",
+    "sentence": "Turkish police arrest a protester chanting slogans in Istanbul after he and others tried to stage a march to denounce the deaths of a Monday explosion in the Turkish town of Suruc near the Syrian border, July 21, 2015",
+    "predicted": "arrest",
+    "actual": "arrest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.28.3654650_8",
+    "sentence": "FILE - Masked Spanish police officers lead a detained woman in Melilla, Dec. 16, 2014",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.03.20.3242323_6",
+    "sentence": "FILE - An opposition activist is detained by Cuban security officers ahead of a march marking International Human Rights Day in Havana, Cuba, Dec. 10, 2014",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.21.3017239_45",
+    "sentence": "Russian President Vladimir Putin, right, and Syria President Bashar Assad arrive for their meeting in the Kremlin in Moscow, Russia, Oct. 20, 2015",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.21.3017239_55",
+    "sentence": "FILE - Smoke rises over the Syrian city of Kobani, following a US led coalition airstrike, seen from outside Suruc, on the Turkey-Syria border Monday, Nov. 10, 2014",
+    "predicted": "airstrike",
+    "actual": "airstrike"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.21.3017239_65",
+    "sentence": "FILE - Senators John McCain, left, and Lindsey Graham, following a closed-door meeting with President Barack Obama to discuss the situation with Syria, Sept. 2, 2013",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.10.3184933_8",
+    "sentence": "Republican presidential candidate, businessman Donald Trump speaks to supporters during a primary night rally, Tuesday, Feb. 9, 2016, in Manchester, N.H",
+    "predicted": "speaks",
+    "actual": "speaks"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.10.3184933_14",
+    "sentence": "Democratic presidential candidate Sen. Bernie Sanders, I-Vt., right, accompanied by Rev. Al Sharpton, raises a fist as he arrives for a breakfast meeting at Sylvia's Restaurant, Feb. 10, 2016, in the Harlem neighborhood of New York",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.15.3851683_2",
+    "sentence": "According to the United Nations, more than 43,000 migrants, mostly from sub-Saharan Africa, have reached European shores this year from Libya and a surge in migrant crossings is expected this spring and summer",
+    "predicted": "reached",
+    "actual": "reached"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.15.3851683_26",
+    "sentence": "The International Organization for Migration estimated that more than a quarter-of-a-million migrants crossed the Libya-Niger border last year",
+    "predicted": "crossed",
+    "actual": "crossed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.26.3392569_9",
+    "sentence": "Displaced Iraqis who fled the government's operation against the Islamic State (IS) group in the city of Fallujah carry basic food items donated by a NGO called Preemptive Love Coalition on June 20, 2016 in a camp in Khaldiyeh",
+    "predicted": "carry",
+    "actual": "fled"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.26.3392569_27",
+    "sentence": "Iraqi government forces drive their armored vehicle, June 22, 2016, some 40 kilometers (25 miles) west of Qayyarah, during their operation to take the city and make it a launchpad for Mosul",
+    "predicted": "drive",
+    "actual": "drive"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635600_33",
+    "sentence": "In this photo released by the Syrian official news agency SANA, a Syrian soldier carries a wounded woman in eastern Aleppo, Syria, Dec. 12, 2016",
+    "predicted": "carries",
+    "actual": "carries"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.22.3686805_21",
+    "sentence": "Protesters listen to a speaker as they gather for the Women's March against President Donald Trump, Jan. 21, 2017, in Los Angeles",
+    "predicted": "gather",
+    "actual": "gather"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.22.3686805_29",
+    "sentence": "Protesters take part in the Women's March in Paris, France, Jan. 21, 2017",
+    "predicted": "March",
+    "actual": "March"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.22.3686805_34",
+    "sentence": "Demonstrators take part in the Women's March on London, following the Inauguration of U.S. President Donald Trump, in London, Jan. 21, 2016",
+    "predicted": "Demonstrators",
+    "actual": "March"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.15.3726266_14",
+    "sentence": "People participate in a protest against President Donald Trump's immigration policy and the recent Immigration and Customs Enforcement (ICE) raids in New York City, Feb. 11, 2017",
+    "predicted": "protest",
+    "actual": "protest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.15.3726266_59",
+    "sentence": "FILE - Immigration activists march in a rally against the U.S. Immigration and Customs Enforcement's (ICE) raids and deportation of immigrants near the downtown Los Angeles Federal Building, Jan. 26, 2016",
+    "predicted": "march",
+    "actual": "rally"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.26.3022860_6",
+    "sentence": "From left, European Parliament President Martin Schulz, Germany's Chancellor Angela Merkel and Greece's Prime Minister Alexis Tsipras chat after a meeting about the Balkan refugee crisis with leaders from central and eastern Europe, Oct. 25, 2015",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.07.3135549_24",
+    "sentence": "Spanish police arrest a man, left, accused of collaborating with the Islamic State, after searching a cybercafe in Mataro near to Barcelona, Dec. 8, 2015",
+    "predicted": "arrest",
+    "actual": "arrest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.17.3640413_5",
+    "sentence": "Reporters interview officials on the inaugural preparations being made by the Joint Task Force-National Capital Region for military and civilian planners at the D.C. Armory in Washington, Dec. 14, 2016",
+    "predicted": "interview",
+    "actual": "interview"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.17.3640413_16",
+    "sentence": "Women march against U.S. President-elect Donald Trump in Manhattan, New York, Nov. 13, 2016",
+    "predicted": "march",
+    "actual": "march"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.27.3527400_27",
+    "sentence": "Police detain two people during protests following the police shooting of Keith Lamont Scott, in Charlotte, North Carolina, Sept. 21, 2016",
+    "predicted": "detain",
+    "actual": "detain"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.30.3699085_18",
+    "sentence": "FILE - U.S. President Donald Trump speaks by phone with Russia's President Vladimir Putin in the Oval Office at the White House in Washington, Jan. 28, 2017",
+    "predicted": "phone",
+    "actual": "speaks"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.01.22.1835368_8",
+    "sentence": "This photo provided by Yemen's Defense Ministry shows damaged vehicles after an explosion at the Defense Ministry complex in Sana'a, Dec. 5, 2013",
+    "predicted": "explosion",
+    "actual": "explosion"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.07.10.3936006_10",
+    "sentence": "Airstrikes target Islamic State positions on the edge of the Old City a day after Iraq's prime minister declared \"total victory\" in Mosul, July 11, 2017",
+    "predicted": "Airstrikes",
+    "actual": "Airstrikes"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.07.10.3936006_26",
+    "sentence": "At an Iraqi base in Mosul, suspected IS militants are held before being transported to authorities, July 9, 2017",
+    "predicted": "held",
+    "actual": "held"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_11",
+    "sentence": "FILE - Taiwan's President Tsai Ing-wen speaks with U.S. President-elect Donald Trump through a speaker phone in Taipei, Taiwan",
+    "predicted": "phone",
+    "actual": "speaks"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_14",
+    "sentence": "FILE - U.S. President Barack Obama, left, and Chinese President Xi Jinping shake hands at the West Lake State Guest House in Hangzhou, China, Sept. 3, 2016, on the sidelines of the G-20 summit",
+    "predicted": "shake",
+    "actual": "summit"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_45",
+    "sentence": "FILE - Chinese leader Mao Zedong shake hands with Richard Nixon after their meeting in Beijing 22 February 1972 during the U.S. President's official visit in China",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.14.3635692_52",
+    "sentence": "FILE - Russian Prime Minister Vladimir Putin, right, shakes hands with Rex W. Tillerson, chairman and chief executive officer of Exxon Mobil Corporation at their meeting in the Novo-Ogaryovo residence outside Moscow, Monday, April 16, 2012",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.05.12.1912526_21",
+    "sentence": "Denis Pushilin, senior member of the pro-Russia separatist rebellion leadership, meets with journalists in Donetsk, May 12, 2014",
+    "predicted": "meets",
+    "actual": "meets"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.28.3166988_75",
+    "sentence": "Huckabee and Santorum showed up at the Trump event",
+    "predicted": "event",
+    "actual": "showed up"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.08.3842885_18",
+    "sentence": "FILE - Police detain a protester in downtown Moscow, Russia, March 26, 2017",
+    "predicted": "detain",
+    "actual": "detain"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.10.3590360_22",
+    "sentence": "Protesters march along 57th Street toward Trump Tower, Nov. 9, 2016, in New York, in opposition of Donald Trump's presidential election victory",
+    "predicted": "march",
+    "actual": "march"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.07.14.1957332_0",
+    "sentence": "International Protests Against Israeli Military Offensive on Gaz",
+    "predicted": "Protests",
+    "actual": "Protests"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.15.3767889_15",
+    "sentence": "FILE - Supporters of Venezuela's President Nicolas Maduro shout as they attend a rally against the application of Organization of American States (OAS) democratic charter, in Caracas, Venezuela, June 23, 2016",
+    "predicted": "rally",
+    "actual": "rally"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.15.3767889_25",
+    "sentence": "FILE - An anti-government protester is detained by Bolivarian National Police blocking protesters from reaching the headquarters of the national electoral body, CNE, to demand a recall referendum against President Nicolas Maduro in Caracas, Venezuela, May 18, 2016",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.07.08.1696918_0",
+    "sentence": "Protests and Rallies in Egypt-Supporters and opponents of ousted Egyptian President Mohamed Morsi staged massive protests Sunday",
+    "predicted": "protests",
+    "actual": "protests"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.12.3415627_26",
+    "sentence": "FILE - Police arrest Black Lives Matter leader Deray McKesson during a protest along Airline Highway, a major road that passes in front of the Baton Rouge Police Department headquarters, July 9, 2016",
+    "predicted": "arrest",
+    "actual": "arrest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.12.3415627_41",
+    "sentence": "FILE - A demonstrator is detained by police during protests in Baton Rouge, Louisiana, July 10, 2016",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.05.3797975_30",
+    "sentence": "Abdul-Hamid Alyousef, 29, holds his twin babies who were killed during a suspected chemical weapons attack, in Khan Sheikhoun in the northern province of Idlib, Syria, April 4, 2017",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.01.3832748_0",
+    "sentence": "Global May Day Protests-A look at protests around the world on May 1, International Workers Day - a day when workers and activists march in the streets and gather in city centers to honor laborers",
+    "predicted": "march",
+    "actual": "protests"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.26.3916532_17",
+    "sentence": "Bodies of IS militants litter the streets and buildings in the areas of Old Mosul recently captured, while the bodies of families are buried in the rubble, June 25, 2017",
+    "predicted": "bodies",
+    "actual": "buried"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.07.3891137_27",
+    "sentence": "FILE - President Donald Trump conducts a phone call in the Oval Office at the White House in Washington, Jan. 28, 2017",
+    "predicted": "call",
+    "actual": "conducts"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.12.08.3093406_17",
+    "sentence": "FILE - A protester holds a flyer reading \"We need Dozhd\" during a rally in support of the independent television station Dozhd (TV Rain), in Moscow, February 8, 2014",
+    "predicted": "rally",
+    "actual": "rally"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.11.3412014_16",
+    "sentence": "A woman protesting the shooting death of Alton Sterling is detained by law enforcement near the headquarters of the Baton Rouge Police Department in Baton Rouge, Louisiana, July 9, 2016",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.09.3410778_18",
+    "sentence": "Dallas Mayor Mike Rawlings visits a makeshift memorial of police cars, in honor of the slain Dallas police officers, in front of their headquarters in Dallas, July 9, 2016",
+    "predicted": "visits",
+    "actual": "visits"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.28.3437601_8",
+    "sentence": "FILE - Turkish soldiers detain Staff Sergeant Erkan Cikat, suspected of being involved in the recent coup attempt, in Marmaris, Turkey, July 25, 2016",
+    "predicted": "detain",
+    "actual": "detain"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.28.3437601_19",
+    "sentence": "Erdogan met Monday with leaders of the main opposition parties, Republican People's Party leader Kemal Kilicdaroglu, National Movement Party leader Devlet Bahceli and Turkish Prime Minister Binali Yildirim",
+    "predicted": "met",
+    "actual": "met"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.02.2845998_6",
+    "sentence": "FILE - Afghan women's rights activists carry the coffin of Farkhunda, an Afghan woman who was beaten to death and set alight on fire March 19, during her funeral ceremony in Kabul, March 22, 2015",
+    "predicted": "death",
+    "actual": "death"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.03.01.3214677_19",
+    "sentence": "A Turkish man helps a Syrian woman carrying a wounded Syrian girl to a hospital in Kilis, Turkey, Feb. 15, 2016",
+    "predicted": "carrying",
+    "actual": "carrying"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.21.3775715_18",
+    "sentence": "FILE - A photo released by U.S. Immigration and Customs Enforcement (ICE) shows a foreign national being arrested during a targeted enforcement operation conducted by ICE agents, Feb. 7, 2017",
+    "predicted": "arrested",
+    "actual": "arrested"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.22.3297950_4",
+    "sentence": "Malaysian plainclothes police carry a computer from the 1MDB (1 Malaysia Development Berhad) office after a raid in Kuala Lumpur, Malaysia, July 8, 2015",
+    "predicted": "carry",
+    "actual": "carry"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.15.3376757_15",
+    "sentence": "FILE - Trucks drive past piles of shipping containers at the Qingdao port in Qingdao, Shandong province, June 8, 2014",
+    "predicted": "drive",
+    "actual": "drive"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_0",
+    "sentence": "Iran Escalates Involvement in Syria With Anti-IS Missile Strike-Iran\u2019s missile strike this week against Islamic State targets in Syria is escalating its military involvement in Syria and likely will heighten tensions between the U.S.-led coalition and Russian and Iranian forces aligned with the Syrian regime, analysts say",
+    "predicted": "strike",
+    "actual": "strike"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_1",
+    "sentence": "The strike \u2014 the first time Iran fired missiles outside its borders in 30 years \u2014 was meant as retaliation for the IS-claimed twin terror attacks in Tehran on June 7 that killed 17 people and wounded more than 50, Iranian officials said",
+    "predicted": "strike",
+    "actual": "fired"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_5",
+    "sentence": "But Iranian state-run media said the missile strikes carried a greater message to Iran\u2019s perceived enemies \u2014 Israel, Saudi Arabia and the U.S.-Kayhan Daily, a conservative newspaper close to Tehran\u2019s leadership, published an editorial saying the strikes were more than \u201cjust a response\u201d to the IS attack in Tehran",
+    "predicted": "strikes",
+    "actual": "strikes"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_7",
+    "sentence": "A still image taken from footage shot on June 18, 2017 and broadcast on Iranian Television IRINN, purports to show missiles being fired from Iran into eastern Syria",
+    "predicted": "fired",
+    "actual": "fired"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_15",
+    "sentence": "Led by the IRGC, about 10,000 Iranian combat troops are in Syria fighting alongside thousands of fighters from Hezbollah, Lebanon's Tehran-affiliated Shi'ite militia, and assorted Shi'ite militias",
+    "predicted": "fighting",
+    "actual": "fighting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_16",
+    "sentence": "FILE - A Shi'ite fighter clashes with members of the Sunni-dominated Free Syrian Army rebel in the town of Hatita, in the countryside of Damascus, Syria, Nov. 22, 2013",
+    "predicted": "clashes",
+    "actual": "clashes"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.21.3910361_18",
+    "sentence": "\u201cIran's missile attacks on IS was a great measure preventing the U.S. from opposition,\u201d said Syrian Information Minister Mohammad Ramez Tourjman",
+    "predicted": "attacks",
+    "actual": "attacks"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.09.3589149_15",
+    "sentence": "FILE - Israel's Prime Minister Benjamin Netanyahu walks with U.S. Secretary of State Hillary Rodham Clinton upon her arrival to their meeting in Jerusalem, Nov. 20, 2012",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.09.3589149_23",
+    "sentence": "FILE - Secretary of State John Kerry talks with Iranian Foreign Minister Mohammad Javad Zarif in Vienna, after the International Atomic Energy Agency (IAEA) verified that Iran has met all conditions under the nuclear deal",
+    "predicted": "talks",
+    "actual": "talks"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.06.3583381_25",
+    "sentence": "U.S. Democratic presidential nominee Hillary Clinton talks to supporters at Reed's Coffee and Tea House in Philadelphia, Pennsylvania, Nov. 5, 2016",
+    "predicted": "talks",
+    "actual": "talks"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.09.27.1758726_6",
+    "sentence": "Iran's President Hassan Rouhani speaks to journalists during a news conference in New York September 27, 2013",
+    "predicted": "conference",
+    "actual": "conference"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2888384_22",
+    "sentence": "FILE - Members of the Senate committee speak together before Secretary of State John Kerry, Secretary of Energy Ernest Moniz and Secretary of Treasury Jack Lew arrive to testify at a Senate Foreign Relations Committee hearing on Capitol Hill, in Washington, July-But Obama needs the support of many more \u2013 at least one-third of the House and Senate \u2013 to uphold his veto, should the GOP as expected send him a resolution of disapproval",
+    "predicted": "arrive",
+    "actual": "testify"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2888384_28",
+    "sentence": "FILE - Supporters line seventh avenue during the \"Stop Iran\" protest near Times Square in New York, July 22, 2015",
+    "predicted": "protest",
+    "actual": "protest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.07.31.2888384_34",
+    "sentence": "FILE - Iran's ambassador to the International Atomic Energy Agency (IAEA) Reza Najafi waits for the start of a board of governors meeting at the IAEA headquarters in Vienna, Austria, June 10, 2015",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.09.13.1749095_47",
+    "sentence": "According to HRW, similar summary executions took place in Baniyas, 10 kilometers from al-Bayda, where local residents named 30 men, 22 women, and 29 children who had been executed",
+    "predicted": "executed",
+    "actual": "executed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.02.3491404_52",
+    "sentence": "FILE - Afghan National Army troops arrive in Nad Ali district of Helmand province, southern Afghanistan, Aug. 10, 2016",
+    "predicted": "arrive",
+    "actual": "arrive"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.23.3431608_14",
+    "sentence": "Participants attend the NATO Summit in Warsaw, Poland, July 8, 2016",
+    "predicted": "attend",
+    "actual": "attend"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.23.3431608_49",
+    "sentence": "Afghan President Ashraf Ghani, center, speaks with U.S. President Barack Obama and NATO Secretary General Jens Stoltenberg at the NATO summit in Warsaw, Poland, July 9, 2016",
+    "predicted": "summit",
+    "actual": "summit"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.31.3572766_4",
+    "sentence": "Philippine President Rodrigo Duterte, left, is shown the way by Japanese Prime Minister Shinzo Abe after a joint press conference following their meeting at Abe's official residence in Tokyo, Oct. 26, 2016",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.31.3572766_9",
+    "sentence": "Philippine President Rodrigo Duterte, front, walks with Chinese President Xi Jinping during a welcome ceremony outside the Great Hall of the People in Beijing, China, Oct. 20, 2016",
+    "predicted": "walks",
+    "actual": "ceremony"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.22.3607054_31",
+    "sentence": "U.S. President-elect Donald Trump and Vice President-elect Mike Pence greet retired Marine General James Mattis for a meeting at the main clubhouse at Trump National Golf Club in Bedminster, New Jersey, November 19, 2016",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.22.3734870_3",
+    "sentence": "FILE - Police stand watch as anti-coup demonstrators rally to mark the second anniversary of the military takeover of government, in Bangkok, Thailand, May 22, 2016",
+    "predicted": "rally",
+    "actual": "rally"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.22.3734870_31",
+    "sentence": "FILE - Pro-democracy group Bersih stage 1MDB protest, calling for Malaysian Prime Minister Najib Abdul Razak to resign, in Kuala Lumpur, Malaysia, Nov. 19, 2016",
+    "predicted": "protest",
+    "actual": "protest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.22.3734870_42",
+    "sentence": "FILE - Filipino men place their hands over their heads as they are rounded up during a police operation as part of the continuing \"War on Drugs\" campaign of Philippine President Rodrigo Duterte in Manila, Philippines",
+    "predicted": "rounded",
+    "actual": "rounded up"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.06.15.3902402_26",
+    "sentence": "FILE - Montenegrin police officers escort a suspect in Podgorica, Oct. 16, 2016",
+    "predicted": "escort",
+    "actual": "escort"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.25.3825261_4",
+    "sentence": "Coffins containing the bodies of Afghan national Army (ANA) soldiers killed in April 21's attack on an army headquarters are lined up in Mazar-i-Sharif, northern Afghanistan, April 22, 2017",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.14.3190340_21",
+    "sentence": "FILE - Turkey's President Recep Tayyip Erdogan, right, greets Saudi Arabia's Foreign Minister Adel al-Jubeir before a meeting in Ankara, Oct. 15, 2015",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.19.3557471_19",
+    "sentence": "A displaced woman who is fleeing from clashes holds her baby in Qayyarah, during an operation to attack Islamic State militants in Mosul, Iraq, Oct. 19, 2016",
+    "predicted": "fleeing",
+    "actual": "fleeing"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.19.3557471_26",
+    "sentence": "FILE - In this undated file photo released by a militant website, which has been verified and is consistent with other AP reporting, militants of the Islamic State group hold up their weapons and wave flags on their vehicles in a convoy on a road leading to Iraq, while riding in Raqqa, Syria",
+    "predicted": "convoy",
+    "actual": "riding"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.31.3878829_6",
+    "sentence": "FILE - Police officers escort men arrested in a raid on a gay sauna at North Jakarta police headquarters in Jakarta, Indonesia, May 22, 2017",
+    "predicted": "arrested",
+    "actual": "arrested"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.17.3854850_6",
+    "sentence": "FILE - President Donald Trump meets with Turkish President Recep Tayyip Erdogan in the Oval Office of the White House in Washington, May 16, 2017",
+    "predicted": "meets",
+    "actual": "meets"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.05.17.3854850_15",
+    "sentence": "FILE - Police officers escort people, arrested because of suspected links to U.S.-based cleric Fethullah Gulen, in Kayseri, Turkey, April 26, 2017",
+    "predicted": "arrested",
+    "actual": "arrested"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.01.21.1587732_10",
+    "sentence": "Rescue workers carry the coffin of one of the hostages killed during a hostage crisis in a gas plant at the hospital in In Amenas, January 21, 2013",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.12.17.3106664_13",
+    "sentence": "FILE - An opposition activist is detained by Cuban security officers ahead of a march marking International Human Rights Day in Havana, Cuba, Dec. 10, 2014",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.02.08.3181623_14",
+    "sentence": "Trucks carry tents and construction material to be used for make-shift refugee housing, in Oncupinar, Turkey, Feb. 8, 2016",
+    "predicted": "carry",
+    "actual": "carry"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.10.3411182_4",
+    "sentence": "Police survey the crime scene where Kem Ley was shot dead while family members pray next to his dead body, July 10, 2016",
+    "predicted": "dead",
+    "actual": "dead"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.11.3325807_27",
+    "sentence": "US Republican presidential candidate Donald Trump greets supporters at his campaign rally at Werner Enterprises Hangar in Omaha, Nebraska, US May 6, 2016",
+    "predicted": "greets",
+    "actual": "greets"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.24.3300395_30",
+    "sentence": "Egyptian President Abdel-Fattah el-Sissi, right, meets with U.S. Secretary of State John Kerry, center, and Egyptian Foreign Minister Sameh Shoukry, at the Presidential palace in Cairo, Egypt, April 20, 2016",
+    "predicted": "meets",
+    "actual": "meets"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.11.3460137_13",
+    "sentence": "Kashmiri protesters shout pro-freedom slogans during a protest march in Srinagar, Indian controlled Kashmir, Aug. 11, 2016",
+    "predicted": "protest",
+    "actual": "shout"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.13.3328601_3",
+    "sentence": "Without giving any specific time, Hezbollah said Badreddine was killed in a big explosion targeting one of its bases near Damascus' airport",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.13.3328601_11",
+    "sentence": "The U.S. does not have information on who was behind the attack that killed Badreddine, State Department spokesman John Kirby said",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.13.3328601_20",
+    "sentence": "Hezbollah members carry the coffin of top Hezbollah commander Mustafa Badreddine, who was killed in an attack in Syria, during his funeral in Beirut's southern suburbs, Lebanon, May 13, 2016",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.18.3602889_4",
+    "sentence": "Unidentified members of the People/s Temple are pictured after they committed a mass suicide, led by cult leader Rev. Jim Jones in Jonestown, Guyana, 1978",
+    "predicted": "suicide",
+    "actual": "suicide"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.20.3685521_0",
+    "sentence": "Protesters Across Globe Take Stand Against Trump-LONDON \u2014\u00a0-A banner reading \u201cBuild bridges not walls\u201d was draped across London's Tower Bridge as part of several protests in Europe and Asia on Friday against the inauguration of Donald Trump as U.S. president",
+    "predicted": "protests",
+    "actual": "protests"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.20.3685521_3",
+    "sentence": "There were also demonstrations in Japan, the Philippines and Belgium, where hundreds of people held a minute's silence, lighting candles in Friday evening's bitter cold and holding signs defending women's rights",
+    "predicted": "demonstrations",
+    "actual": "demonstrations"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.09.25.2978237_43",
+    "sentence": "Pope Francis looks at Imam Khalid Latif, right, and Rabbi Elliot J. Cosgrove, left, shaking hands as he arrives for an interfaith service at the Sept. 11 memorial museum in New York, Sept. 25, 2015",
+    "predicted": "arrives",
+    "actual": "shaking hands"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.24.3823632_11",
+    "sentence": "FILE - President Donald Trump, right, and Japanese Prime Minister Shinzo Abe shake hands following their joint news conference in the East Room of the White House in Washington, Feb. 10, 2017",
+    "predicted": "conference",
+    "actual": "conference"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.27.3436565_34",
+    "sentence": "Police arrest Black Lives Matter leader DeRay McKesson during a protest along Airline Highway, a major road that passes in front of the Baton Rouge Police Department headquarters on July 9, 2016",
+    "predicted": "arrest",
+    "actual": "arrest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.16.3769606_22",
+    "sentence": "Baloch was killed by her brother for what he called \u201cintolerable\u201d behavior",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.19.3424061_26",
+    "sentence": "A young boy waves a Turkish national flag as supporters of Turkish President Tayyip Erdogan gather during a pro-government demonstration on Taksim square in Istanbul, Turkey, July 18, 2016",
+    "predicted": "demonstration",
+    "actual": "demonstration"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.27.3527025_4",
+    "sentence": "Coffins containing bodies of Indian soldiers G. Doloi and Biaswajit Garai, killed in an attack at the Indian army base in Kashmir, arrive at the Netaji Subhas Chandra Bose International airport in Kolkata, India, Sept. 19, 2016",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.05.3132000_10",
+    "sentence": "Smoke rises as Iranian protesters set fire to the Saudi embassy in Tehran, Sunday, Jan. 3, 2016",
+    "predicted": "fire",
+    "actual": "set fire"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.05.3132000_14",
+    "sentence": "Iranian demonstrators hold anti-Saudi placards in a rally to protest the execution by Saudi Arabia last week of Sheikh Nimr al-Nimr, a prominent opposition Saudi Shiite cleric, in Tehran, Iran, Jan. 4, 2016",
+    "predicted": "rally",
+    "actual": "protest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.01.05.3132000_25",
+    "sentence": "Followers of Shi'ite cleric Muqtada al-Sadr burn an effigy of King Salman of Saudi Arabia as they hold posters of Sheik Nimr al-Nimr during a demonstration in Baghdad, Iraq, Jan. 4, 2016",
+    "predicted": "demonstration",
+    "actual": "demonstration"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.01.28.1592104_0",
+    "sentence": "Brazil Mourns Dead From Massive Fire-Brazilians are mourning the loss of 232 people killed early Sunday in a fire that swept through a nightclub in the far south of the country",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.08.08.2908562_30",
+    "sentence": "A man is detained after a standoff between protesters and police Monday, Aug. 18, 2014",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.01.17.3679550_21",
+    "sentence": "FILE - NATO defense ministers are seated during a meeting of the North Atlantic Council Defense Ministers session at NATO headquarters in Brussels, Oct. 27, 2016",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.11.3279945_43",
+    "sentence": "People take part in a rally in support of Azerbaijan over the conflict in the breakaway Nagorno-Karabakh region, outside the Armenian embassy in Kyiv, Ukraine, April 8, 2016",
+    "predicted": "rally",
+    "actual": "rally"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.10.3458597_10",
+    "sentence": "FILE - Pakistanis rally in support of Mumtaz Qadri who was convicted and executed for a blasphemy-motivated killing of a former governor, in Lahore, Pakistan, Feb. 29, 2016",
+    "predicted": "rally",
+    "actual": "rally"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.30.3351608_9",
+    "sentence": "FILE - Turkish artillery fire from the border toward northern Syria, in Kilis, Turkey, Feb. 16, 2016",
+    "predicted": "fire",
+    "actual": "fire"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.13.3283669_10",
+    "sentence": "An employee unloads steel products at a market in Yichang, Hubei Province, China, April 11, 2016",
+    "predicted": "unloads",
+    "actual": "unloads"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.13.3808915_21",
+    "sentence": "FILE - A demonstrator is arrested by riot police while rallying against Venezuela's President Nicolas Maduro's government in Caracas, Venezuela, April 10, 2017",
+    "predicted": "arrested",
+    "actual": "arrested"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_0",
+    "sentence": "US Condemns Russia's Arrest of Opposition Leader, Hundreds of Protesters-MOSCOW \u2014\u00a0-The United States has \"strongly condemned\" the detention of hundreds of protesters throughout Russia Sunday, including the country's opposition leader, Alexei Navalny",
+    "predicted": "detention",
+    "actual": "Arrest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_4",
+    "sentence": "That number has not been independently confirmed and state news agency TASS cited Moscow police as saying they made about 500 arrests, including Navalny",
+    "predicted": "arrests",
+    "actual": "arrests"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_5",
+    "sentence": "He was detained while walking from a subway station to join the rally at Moscow's iconic Pushkin Square",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_17",
+    "sentence": "A detained woman looks out of a police bus in downtown Moscow, Russia, March 26, 2017",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.27.3783190_23",
+    "sentence": "Law enforcement officers detain an opposition supporter during a rally in Moscow, Russia, March 26, 2017",
+    "predicted": "detain",
+    "actual": "detain"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.03.04.3219688_8",
+    "sentence": "The Palestinian stabbed two officers before he was shot and killed, police said",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.12.23.3115897_12",
+    "sentence": "FILE - Air Force Lt. Col. David Hanson, of Chicago, takes a phone call from a child in Florida at the Santa Tracking Operations Center at Peterson Air Force Base near Colorado Springs, Colo., Dec. 24, 2014",
+    "predicted": "call",
+    "actual": "takes"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.07.2995399_8",
+    "sentence": "Valentin Grossu is escorted by an armed police officer following his arrest during a cesium smuggling sting operation in Chisinau, Moldova, Feb. 19, 2015",
+    "predicted": "arrest",
+    "actual": "arrest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.07.2995399_22",
+    "sentence": "Teodor Chetrus is detained by a police officer in Chisinau, Moldova during a uranium-235 sting operation, June 27, 2011",
+    "predicted": "detained",
+    "actual": "detained"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.17.3469525_13",
+    "sentence": "FILE - Students chant while marching at a rally against Islamophobia at San Diego State University in San Diego, California, Nov. 23, 2015",
+    "predicted": "rally",
+    "actual": "rally"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.17.3469525_22",
+    "sentence": "FILE - Women attend a \"Freedom of Speech Rally Round II\" across the street from the Islamic Community Center in Phoenix, Arizona, May 29, 2015",
+    "predicted": "Rally",
+    "actual": "attend"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.12.17.2562583_0",
+    "sentence": "Funerals Begin for 141 After Taliban Attack on Pakistan School-The first funerals are being held for the victims of a Taliban school massacre in Pakistan on Tuesday that left at least 141 people dead, most of them young students",
+    "predicted": "dead",
+    "actual": "dead"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_3",
+    "sentence": "Syrian regime units have also pushed deep inside the strategic Hanano District in the rebels\u2019 eastern pocket and they launched a fierce assault on another key district, \u2019Ard Al-Hamra",
+    "predicted": "assault",
+    "actual": "assault"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_6",
+    "sentence": "According to Nawar Oliver of the Omran Center for Strategic Studies, an Istanbul-based think tank, Russian warplanes have mounted 3,359 airstrikes on Aleppo province in the past three months",
+    "predicted": "airstrikes",
+    "actual": "airstrikes"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_7",
+    "sentence": "Oliver says only one percent targeted the Islamic State terror group \u2014 the rest hit anti-Assad rebels and civilians mostly in the city\u2019s eastern and southern districts, or to the west or south of the city where insurgents have tried at various times to break a months-long siege of their districts",
+    "predicted": "hit",
+    "actual": "hit"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_9",
+    "sentence": "Each collapsed house and rubble-strewn street is being fought over time and again",
+    "predicted": "fought",
+    "actual": "fought"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_10",
+    "sentence": "The assault on eastern Aleppo is taking its toll of government forces",
+    "predicted": "assault",
+    "actual": "assault"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_11",
+    "sentence": "A man covers his face from dust as he walks with a bicycle after a strike on the rebel held besieged al-Shaar neighborhood of Aleppo, Syria, Nov. 26, 2016",
+    "predicted": "strike",
+    "actual": "strike"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_13",
+    "sentence": "the head of a foundation in Tehran that provides aid to the families of the dead admitted that more than a thousand fighters with Iranian militias, many of them Afghan Shi\u2019ite exiles, have been killed in combat in Syria \u2014 about 400 appear to have died fighting in Aleppo province in just the past three months",
+    "predicted": "combat",
+    "actual": "combat"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_16",
+    "sentence": "But when asked how, they fall back on citing the fighting spirit of the rebels \u2014 hardly a strategy to counter overwhelming numbers, the advantage of airpower and more powerful weaponry-The rebels have mounted major counter-attacks in recent weeks as they have battled to hold on to districts that first fell to them four years ago",
+    "predicted": "counter-attacks",
+    "actual": "battled"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_18",
+    "sentence": "FILE - This photo provided by the Shafak Charity Organization, which has been authenticated based on its contents and other AP reporting, shows shows the badly damaged exterior of a medical facility dedicated to women after it was hit by four airstrikes",
+    "predicted": "hit",
+    "actual": "airstrikes"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.11.28.3614228_28",
+    "sentence": "\u201cAssad and the Russians mean to finish the rebels in Aleppo and with the indiscriminate, relentless bombardment I can see no way that isn\u2019t going to happen,\u201d says a Turkey-based Western diplomat, who asked not to be identified for this article",
+    "predicted": "bombardment",
+    "actual": "bombardment"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.12.3461808_3",
+    "sentence": "Victims of suicide bombing targeting a hospital in Quetta, Pakistan lie on stretchers, August 8, 2016",
+    "predicted": "Victims",
+    "actual": "bombing"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.01.31.1841956_17",
+    "sentence": "Women carry the body of a civilian killed in the center of Malakal, Upper Nile State in South Sudan, Jan. 21, 2014",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.21.3519438_6",
+    "sentence": "FILE - Women chant slogans condemning Islamist terrorism during an anti-terror rally in Lahore, Pakistan, Jan. 16, 2015",
+    "predicted": "rally",
+    "actual": "rally"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.21.3519438_28",
+    "sentence": "Ahmad Khan Rahami is taken into custody after a shootout with police Monday, Sept. 19, 2016",
+    "predicted": "custody",
+    "actual": "custody"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.12.20.3643261_14",
+    "sentence": "Acid attack survivors, friends and well wishers gather for the anniversary celebrations of the Sheroes Hangout cafe",
+    "predicted": "gather",
+    "actual": "gather"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.05.05.2749920_0",
+    "sentence": "Aid Group: About 40 Migrants Reportedly Drown During Rescue-The Save the Children aid group reported that about 40 migrants may have drowned Sunday in the Mediterranean when the rubber dinghy they were on either deflated or exploded as they tried to reach the coast of Italy",
+    "predicted": "drowned",
+    "actual": "Drown"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.14.3285847_32",
+    "sentence": "Democratic presidential hopeful Hillary Clinton greets people at the Jackson Diner in the Queens borough of New York, April 11, 2016",
+    "predicted": "greets",
+    "actual": "greets"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_1",
+    "sentence": "Four other carts followed, laden with days-old corpses from air strikes that the men said killed 21 relatives and neighbors in an area Islamic State militants controlled earlier in the week",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_2",
+    "sentence": "A father's loss-Ayed, a 40-year-old laborer, pulled back a blanket to show his only son, 3-year-old Ahmed, lying lifeless with his eyes closed and a big gash in his right cheek",
+    "predicted": "lifeless",
+    "actual": "lying"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_13",
+    "sentence": "Families fleeing Mosul in recent weeks have talked of high numbers of civilians killed by air strikes, and said that in many cases Islamic State fighters have slipped away by the time the bombs hit",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_23",
+    "sentence": "Separately, the United Nations says it has received many reports of civilian deaths in air strikes",
+    "predicted": "deaths",
+    "actual": "deaths"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_25",
+    "sentence": "Civilian death estimates vary widely-The U.S.-led coalition backing Iraqi forces with air power and military advisers admits causing unintentional civilian deaths",
+    "predicted": "deaths",
+    "actual": "deaths"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_26",
+    "sentence": "This month the U.S. military said the total number of civilians killed by the coalition since the start of operations against the militant group in 2014 in both Iraq and Syria was 220",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.03.19.3772413_32",
+    "sentence": "A father reacts after his son was killed in an airstrike during a battle between Iraqi forces and Islamic State militants, in Mosul, Iraq, March 17, 2017",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2012.05.26.1105689_0",
+    "sentence": "Activists: Syrian Government Shelling Leaves 90 Dead-Syrian opposition forces say more than 90 people, many of them children, have been killed in a coordinated assault on a village outside the city of Homs by government artillery and militiamen",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2012.05.26.1105689_6",
+    "sentence": "Opposition activists say some of the victims, many of whom are children, were killed in the shelling, while others were shot by pro-government militiamen known as \u201cshabiha.",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2012.05.26.1105689_8",
+    "sentence": "But she says several other relatives were slaughtered by security forces dressed in black, who killed them with knives",
+    "predicted": "slaughtered",
+    "actual": "slaughtered"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2012.05.26.1105689_9",
+    "sentence": "Observers -A team of U.N. observers headed by General Robert Mood, arrived in Houla Saturday to investigate the killings.The general condemned the \"brutal tragedy\" and said the observers counted more than 32 children under the age of 10 and over 60 adults killed",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.07.28.3437456_32",
+    "sentence": "Medhane Tesfamariam Berhe is pictured with Italian policemen as they land at Palermo airport, Italy, following his arrest in Khartoum, Sudan, on May 24, in this file photo released June 8, 2016 by Italian police",
+    "predicted": "arrest",
+    "actual": "arrest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_0",
+    "sentence": "Venezuelan Opposition Insists on \u2018Peaceful Protest\u2019-CARACAS, VENEZUELA \u2014\u00a0-Opponents of the Venezuelan government converged on downtown Caracas for a second day Thursday, pledging to sustain peaceful pressure on leftist President Nicol\u00e1s Maduro to restore democracy in the crisis-ridden country",
+    "predicted": "converged",
+    "actual": "converged"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_1",
+    "sentence": "Security teams were out in force nationwide after at least three people were fatally shot Wednesday, as tens of thousands of pro- and anti-government factions took to the streets in the largest anti-government demonstrations in decades",
+    "predicted": "demonstrations",
+    "actual": "demonstrations"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_3",
+    "sentence": "A National Guard soldier also reportedly was killed in protests in Miranda state, near Caracas",
+    "predicted": "protests",
+    "actual": "protests"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_8",
+    "sentence": "Venezuelan anti-government protesters including activist Lilian Tintori, center right in printed T-shirt, demonstrate in Caracas, April 20, 2017",
+    "predicted": "demonstrate",
+    "actual": "demonstrate"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_25",
+    "sentence": "Demonstrators clash with the riot police during a protest against Venezuelan President Nicolas Maduro, in Caracas, April 20, 2017",
+    "predicted": "protest",
+    "actual": "protest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.20.3818034_37",
+    "sentence": "The demonstrations erupted after the Venezuelan Supreme Court's March 30 announcement that it would strip the opposition controlled National Assembly of its legislative powers",
+    "predicted": "demonstrations",
+    "actual": "demonstrations"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.04.30.3309655_23",
+    "sentence": "Police officers take a man into custody who was protesting against Republican presidential candidate Donald Trump outside the Hyatt Regency hotel during the California Republican Party 2016 Convention in Burlingame, Calif., April 29, 2016",
+    "predicted": "protesting",
+    "actual": "protesting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.14.3724228_12",
+    "sentence": "With interest accumulated over the years, Cambodia today owes the U.S. about half a billion dollars",
+    "predicted": "owes",
+    "actual": "owes"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.27.3393616_0",
+    "sentence": "Students Protest Facebook Cheating Scandal in Egypt -CAIRO \u2014\u00a0-Hundreds of high school students marched in Cairo, calling for the Minister of Education's resignation after officials were arrested for leaking cheat sheets for national exams on Facebook",
+    "predicted": "marched",
+    "actual": "Protest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.27.3393616_28",
+    "sentence": "Besides demanding the minister's resignation, students protested corruption in the school system and demanded the ministry not cancel their exam scores, which would force them to prepare for the exam again",
+    "predicted": "protested",
+    "actual": "protested"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.27.3393616_30",
+    "sentence": "\"It means we will have no dreams, no dream to join a university or a faculty,\" said Mariam, a high school senior at the demonstration",
+    "predicted": "demonstration",
+    "actual": "demonstration"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.03.3705362_7",
+    "sentence": "FILE - In this photo obtained from the Iranian Fars News Agency, a Qadr H long-range ballistic surface-to-surface missile is fired by Iran's Revolutionary Guard, during a maneuver, in an undisclosed location in Iran, March 9, 2016",
+    "predicted": "fired",
+    "actual": "fired"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.03.3705362_67",
+    "sentence": "FILE - An explosion is seen onboard what is believed to be a Saudi warship, off the western coast of Yemen in this still frame taken from video posted by Houthi-run al-Masirah television on their social media website, and obtained by Reuters, Jan. 31, 2017",
+    "predicted": "explosion",
+    "actual": "explosion"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.10.13.3549797_38",
+    "sentence": "\u201cRather than provide safety, it invited ISIS fighters to enter civilian homes for protection or force civilians to move with them from location to location.",
+    "predicted": "move",
+    "actual": "enter"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.08.27.3483319_25",
+    "sentence": "As Italians observed a day of national mourning, President Sergio Mattarella and Premier Matteo Renzi joined grieving family members for a state funeral for 35 of the 290 people killed in Wednesday\u2019s quake",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.12.3327048_27",
+    "sentence": "FILE - Pakistani Taliban fighters, who were arrested by Afghan border police, stand during a presentation of seized weapons and equipment to the media in Kabul, Afghanistan on January 5, 2016",
+    "predicted": "arrested",
+    "actual": "arrested"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.05.12.3327048_36",
+    "sentence": "FILE - Afghan Foreign Minister Salahuddin Rabbani, right, talks with Pakistan's National Security Adviser Sartaj Aziz, left, during their meeting in Islamabad, Pakistan, August 13, 2015",
+    "predicted": "meeting",
+    "actual": "meeting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.09.27.3526898_8",
+    "sentence": "Most refugees enter Europe either through Greece or Italy",
+    "predicted": "enter",
+    "actual": "enter"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.10.01.2987042_7",
+    "sentence": "A tractor is seen transporting supplies through the make-shift reception center for migrants and asylum-seekers in Traiskirchen, Austria",
+    "predicted": "transporting",
+    "actual": "transporting"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.23.3737435_4",
+    "sentence": "Police detain a man in an attempt to clear the Oceti Sakowin camp, Feb. 23, 2017",
+    "predicted": "detain",
+    "actual": "detain"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.10.30.1779904_17",
+    "sentence": "Hundreds of Morsi supporters were killed when police forces stormed two protest camps on Aug. 14",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2013.05.23.1666803_0",
+    "sentence": "Blast Targets Pakistani Security Personnel-The explosion in Quetta ripped through a vehicle used by security forces, killing at least 12 people -- 11 security personnel and a civilian",
+    "predicted": "killing",
+    "actual": "killing"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2015.01.20.2605914_2",
+    "sentence": "Ukrainian soldiers carry a coffin bearing the body of a fellow serviceman who was killed in fighting with pro-Russia rebels in eastern Ukraine, during his funeral in Kyiv Jan. 20, 2015",
+    "predicted": "killed",
+    "actual": "killed"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.02.17.3729391_7",
+    "sentence": "FILE - President Donald Trump speaks on the phone with Russian President Vladimir Putin, Jan. 28, 2017, in the Oval Office at the White House in Washington",
+    "predicted": "phone",
+    "actual": "speaks"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.05.25.1921616_2",
+    "sentence": "Thai soldiers guard during a protest against the coup in Bangkok, Thailand Saturday, May 24, 2014",
+    "predicted": "protest",
+    "actual": "protest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2014.05.25.1921616_11",
+    "sentence": "Thai anti-coup protesters hold up banners during a protest outside a shopping complex in Bangkok, Thailand Saturday, May 24, 2014",
+    "predicted": "protest",
+    "actual": "protest"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.02.3358563_15",
+    "sentence": "Vehicles of the International Committee of the Red Cross (ICRC) and the United Nations wait on a street after an aid convoy entered the rebel-held Syrian town of Daraya, southwest of the capital Damascus, on June 1, 2016",
+    "predicted": "entered",
+    "actual": "entered"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2017.04.05.3798460_19",
+    "sentence": "FILE - Alleged drugdealer Alfredo Beltran Leyva is showed to the media by members of the Mexican Army in Mexico City, on January 21, 2008, after being captured in Culiacan, in the northwestern state of Sinaloa, along with three other members of his gang",
+    "predicted": "captured",
+    "actual": "captured"
+  },
+  {
+    "sentence_id": "VOA_EN_NW_2016.06.10.3370380_11",
+    "sentence": "Sen. Margaret Chase Smith makes calls to friends from her home in Skohegan, Maine in this June 21, 1954 file photo",
+    "predicted": "calls",
+    "actual": "calls"
+  }
+]
