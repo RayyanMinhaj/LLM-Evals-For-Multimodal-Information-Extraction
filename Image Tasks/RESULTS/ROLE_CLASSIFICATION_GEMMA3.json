@@ -1,0 +1,6592 @@
+[
+  {
+    "image_id": "VOA_EN_NW_2009.12.09.416313_1_Victim_1",
+    "predicted": "Vehicle",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2009.12.09.416313_1_Victim_2",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2009.12.09.416313_1_Victim_3",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2009.12.09.416313_1_Victim_4",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2009.12.13.416444_1_Victim_1",
+    "predicted": "Vehicle",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2009.12.13.416444_1_Victim_2",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2009.12.13.416444_1_Victim_3",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2009.12.13.416444_1_Victim_4",
+    "predicted": "Vehicle",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2009.12.13.416444_1_Victim_5",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.05.26.1105689_1_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.05.26.1105689_1_Victim_2",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.05.26.1105689_1_Victim_3",
+    "predicted": "Vehicle",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.05.26.1105689_1_Victim_4",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.05.26.1105689_1_Victim_5",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.05.26.1105689_2_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_1_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_1_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_1_Agent_3",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_1_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_1_Agent_5",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_1_Agent_6",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_1_Artifact_1",
+    "predicted": "Money",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_1_Artifact_2",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_1_Artifact_3",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_2_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_2_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_2_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_2_Artifact_2",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.10.1581113_0_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.10.1581113_3_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.10.1581113_3_Place_1",
+    "predicted": "Person",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.10.1581113_3_Place_2",
+    "predicted": "Artifact",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.21.1587732_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.21.1587732_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.21.1587732_1_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.21.1587732_2_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.28.1592104_0_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.28.1592104_1_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.28.1592104_1_Victim_2",
+    "predicted": "Instrument",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.28.1592104_1_Victim_3",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.03.18.1623546_2_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.04.03.1634074_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.04.03.1634074_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.02.1653029_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.02.1653029_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.02.1653029_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.02.1653029_0_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.02.1653029_0_Instrument_2",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.02.1653029_0_Instrument_3",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.02.1653029_0_Instrument_4",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.02.1653029_0_Instrument_5",
+    "predicted": "Vehicle",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.02.1653029_0_Instrument_6",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.23.1666803_2_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.23.1666803_2_Victim_2",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.23.1666803_2_Victim_3",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.23.1666803_2_Victim_4",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.23.1666803_2_Victim_5",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.23.1666803_2_Victim_6",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.23.1666803_2_Victim_7",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.23.1666803_3_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.08.1696918_0_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.08.1696918_2_Place_1",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.08.1696918_3_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.08.1696918_3_Place_1",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_10",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_11",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_2",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_3",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_4",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_5",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_6",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_7",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_8",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0_Victim_9",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_1_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.08.09.1726740_0_Money_1",
+    "predicted": "Artifact",
+    "actual": "Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.08.09.1726740_0_Money_2",
+    "predicted": "Person",
+    "actual": "Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.08.09.1726740_0_Recipient_1",
+    "predicted": "Person",
+    "actual": "Recipient"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.08.14.1729937_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.08.14.1729937_2_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.09.1746134_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.09.1746134_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.13.1749095_0_Victim_2",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.13.1749095_0_Victim_3",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.13.1749095_2_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.13.1749095_2_Victim_2",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.13.1749095_2_Victim_3",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.13.1749095_2_Victim_4",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.27.1758726_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.27.1758726_0_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.27.1758726_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_10",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_11",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_12",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_13",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_14",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_15",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_16",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_17",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_18",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_2",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_3",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_4",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_5",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_6",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_7",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_8",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3_Victim_9",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779954_0_Artifact_1",
+    "predicted": "Agent",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779954_0_Artifact_2",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779954_0_Artifact_3",
+    "predicted": "Police",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779954_0_Artifact_4",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779954_0_Vehicle_1",
+    "predicted": "Person",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779954_3_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.05.1784209_0_Entity_1",
+    "predicted": "Artifact",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.05.1784209_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.10.1787498_0_Entity_1",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.10.1787498_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.15.1791049_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.15.1791049_0_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.15.1791049_0_Artifact_2",
+    "predicted": "Police",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.15.1791049_0_Artifact_3",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.15.1791049_0_Artifact_4",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.20.1794343_0_Entity_1",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.20.1794343_0_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.21.1794874_1_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.12.31.1820694_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.12.31.1820694_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.06.1823838_0_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_10",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_11",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_12",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_4",
+    "predicted": "Artifact",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_6",
+    "predicted": "Artifact",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_7",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_10",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_11",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_12",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_13",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_14",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_15",
+    "predicted": "Attacker",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_16",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_2",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_3",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_4",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_5",
+    "predicted": "Money",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_6",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_7",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_8",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0_Instrument_9",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_1_Target_1",
+    "predicted": "Vehicle",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.31.1841956_1_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.03.02.1862314_3_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.03.02.1862314_3_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.03.02.1862314_3_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.03.02.1862314_3_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.03.02.1862314_3_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.03.24.1877778_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.03.24.1877778_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.04.16.1894548_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.04.16.1894548_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.12.1912526_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.12.1912526_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.12.1912526_3_Entity_2",
+    "predicted": "Instrument",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.12.1912526_3_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.12.1912526_3_Entity_4",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.12.1912526_3_Entity_5",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.12.1912526_3_Entity_6",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.22.1920650_1_Instrument_1",
+    "predicted": "Vehicle",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.22.1920650_1_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.22.1920650_1_Victim_2",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.22.1920650_3_Target_1",
+    "predicted": "Participant",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_0_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_0_Person_2",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_1_Police_1",
+    "predicted": "Agent",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_1_Police_2",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_1_Police_3",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_1_Police_4",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_1_Police_5",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_1_Police_6",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_1_Police_7",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_1_Police_8",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_1_Police_9",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2_Instrument_4",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.06.03.1928789_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.06.03.1928789_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_0_Agent_1",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_0_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_0_Person_1",
+    "predicted": "Police",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_0_Person_2",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_1_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_2_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_3_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_3_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.07.2405842_1_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.07.2405842_2_Entity_1",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.07.2405842_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.20.2422182_1_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.20.2422182_1_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.20.2422182_1_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.20.2422182_1_Agent_4",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.20.2422182_1_Agent_5",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.20.2422182_1_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.20.2422182_1_Instrument_2",
+    "predicted": "Vehicle",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.20.2422182_1_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.20.2422182_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.09.10.2444962_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.09.10.2444962_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.09.10.2444962_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.10.09.2478154_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.10.09.2478154_0_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.11.09.2508360_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.11.09.2508360_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_1_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_2_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3_Victim_10",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3_Victim_11",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3_Victim_2",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3_Victim_3",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3_Victim_4",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3_Victim_5",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3_Victim_6",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3_Victim_7",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3_Victim_8",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3_Victim_9",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.13.2556485_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.13.2556485_0_Person_2",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.13.2556485_0_Person_3",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.13.2556485_0_Person_4",
+    "predicted": "Vehicle",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.15.2551521_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.15.2551521_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.15.2551521_1_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.15.2551521_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.16.2560677_0_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.17.2562583_0_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.17.2562583_1_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.17.2562583_2_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.17.2562583_3_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.25.2573211_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.25.2573211_0_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.29.2577251_3_Artifact_1",
+    "predicted": "Vehicle",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.29.2577251_3_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_1_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_1_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_1_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_1_Agent_4",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_2_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_2_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_2_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_2_Agent_4",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_2_Agent_5",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_2_Person_1",
+    "predicted": "Police",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.20.2605914_1_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.20.2605914_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.20.2605914_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.20.2605914_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.20.2605914_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.04.2667016_0_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.04.2667016_0_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.05.2668808_3_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.05.2668808_3_Person_1",
+    "predicted": "Victim",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.19.2685042_0_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.19.2685042_0_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.19.2685042_0_Agent_3",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.19.2685042_0_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.19.2685042_0_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.19.2685042_2_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.21.2689721_1_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.21.2689721_2_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.21.2689721_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.21.2689721_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.21.2689721_3_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.27.2696792_0_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.27.2696792_0_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.27.2696792_0_Agent_3",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.27.2696792_0_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.27.2696792_0_Agent_5",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.27.2696792_0_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.27.2696792_0_Artifact_2",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.27.2697067_3_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Instrument_3",
+    "predicted": "Participant",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0_Instrument_4",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_0_Entity_2",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_1_Agent_1",
+    "predicted": "Victim",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_1_Person_1",
+    "predicted": "Victim",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_2_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_2_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_2_Place_1",
+    "predicted": "Police",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.05.2749920_0_Victim_1",
+    "predicted": "Agent",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.05.2749920_1_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.08.2747846_0_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.08.2760181_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.08.2760181_0_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.08.2760181_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.14.2767071_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.14.2767071_0_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.28.2793713_3_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.28.2793713_3_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.28.2793713_3_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.28.2793713_3_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.28.2793713_3_Artifact_2",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.28.2793713_3_Artifact_3",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.06.26.2838241_5_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.06.26.2838241_5_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.06.26.2838241_5_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.06.26.2838241_5_Instrument_1",
+    "predicted": "Money",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.02.2845998_1_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.16.2865144_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.16.2865144_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Entity_10",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Instrument_2",
+    "predicted": "Origin",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Instrument_4",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Instrument_5",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2_Place_1",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_3_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_3_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_3_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_3_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_3_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_3_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_3_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_4_Police_1",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_5_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_5_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2889903_2_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2889903_2_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2889903_2_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_0_Entity_1",
+    "predicted": "Victim",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_0_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_4_Attacker_1",
+    "predicted": "Police",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_4_Attacker_2",
+    "predicted": "Police",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_4_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_4_Target_1",
+    "predicted": "Person",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_4_Target_2",
+    "predicted": "Person",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.04.2902011_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.04.2902011_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.08.2908562_3_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.08.2908562_3_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.08.2908562_3_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.08.2908562_3_Agent_4",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.08.2908562_3_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.08.2908562_3_Instrument_2",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.08.2908562_3_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913225_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913225_0_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913225_0_Agent_3",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913225_0_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913225_0_Agent_5",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913225_0_Agent_6",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913225_0_Agent_7",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913225_0_Person_1",
+    "predicted": "Police",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913225_0_Person_2",
+    "predicted": "Money",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913549_2_Victim_1",
+    "predicted": "Police",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.18.2922213_3_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.18.2922213_3_Artifact_2",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.18.2922213_3_Artifact_3",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.18.2922213_3_Artifact_4",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.18.2922213_3_Artifact_5",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.18.2922213_3_Artifact_6",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.18.2922213_3_Artifact_7",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.18.2922213_3_Artifact_8",
+    "predicted": "Police",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.18.2922213_3_Vehicle_1",
+    "predicted": "Artifact",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.02.2942501_2_Instrument_1",
+    "predicted": "Money",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.02.2942501_2_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.02.2942501_2_Person_1",
+    "predicted": "Victim",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.02.2942501_2_Person_2",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.05.2949130_0_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.05.2949130_0_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.11.2959960_1_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.25.2978237_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.25.2978237_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.25.2978237_3_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.01.2987042_0_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.01.2987042_0_Vehicle_1",
+    "predicted": "Person",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.07.2995399_1_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.07.2995399_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.07.2995399_3_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.07.2995399_3_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.07.2995399_3_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.18.3012400_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.18.3012400_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.18.3012400_3_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.18.3012400_3_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.18.3012400_3_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.18.3012400_3_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.18.3012400_3_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.18.3012400_3_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_1_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_1_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_5_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_5_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.26.3022860_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.26.3022860_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.26.3022860_1_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.05.3037829_0_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.05.3037829_1_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.05.3037829_1_Vehicle_2",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.05.3037829_1_Vehicle_3",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.05.3038535_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.05.3038535_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.05.3038535_3_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_10",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_11",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_12",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074855_1_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074855_1_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074855_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.05.3090416_0_Target_1",
+    "predicted": "Vehicle",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_0_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_0_Person_1",
+    "predicted": "Participant",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_1_Place_1",
+    "predicted": "Person",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_2_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_2_Place_1",
+    "predicted": "Person",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.17.3106664_2_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.17.3106664_2_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.17.3106664_2_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Entity_6",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Entity_8",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Instrument_2",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Instrument_3",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Instrument_4",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Instrument_5",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Instrument_6",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0_Instrument_7",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_1_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_3_Target_1",
+    "predicted": "Police",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Entity_10",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Entity_11",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4_Place_1",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_5_Entity_2",
+    "predicted": "Artifact",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_5_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_5_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_5_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_5_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_5_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_5_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_5_Instrument_2",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.06.3133182_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.06.3133182_0_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.06.3133182_0_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.06.3133182_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_0_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_0_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_0_Instrument_4",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_0_Instrument_5",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_0_Instrument_6",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_0_Instrument_7",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_0_Place_1",
+    "predicted": "Agent",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_0_Place_2",
+    "predicted": "Artifact",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_2_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_2_Agent_2",
+    "predicted": "Participant",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_2_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.13.3142975_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.13.3142975_0_Person_2",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.13.3142975_0_Person_3",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.13.3142975_0_Person_4",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.13.3142975_0_Person_5",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.13.3142975_0_Person_6",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.13.3142975_0_Person_7",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.13.3142975_0_Person_8",
+    "predicted": "Artifact",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.13.3142975_0_Person_9",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_4_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_5_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_5_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_5_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.08.3181623_2_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.08.3181623_2_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.08.3181623_2_Vehicle_2",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184811_0_Target_1",
+    "predicted": "Victim",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184811_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184811_3_Entity_2",
+    "predicted": "Police",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.14.3190340_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.14.3190340_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.14.3190340_5_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.14.3190340_5_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.15.3191284_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.15.3191284_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.17.3194684_4_Entity_1",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.17.3194684_4_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_10",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_11",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_12",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_13",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_14",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_15",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.01.3214677_3_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.01.3214677_3_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.04.3219688_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.04.3219688_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.04.3219688_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.04.3219688_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.04.3219688_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.04.3219688_1_Victim_1",
+    "predicted": "Vehicle",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.18.3243744_0_Giver_1",
+    "predicted": "Person",
+    "actual": "Giver"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.18.3243744_0_Money_1",
+    "predicted": "Instrument",
+    "actual": "Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.18.3243744_0_Recipient_1",
+    "predicted": "Money",
+    "actual": "Recipient"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.20.3242323_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.20.3242323_0_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.20.3242323_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.20.3242323_1_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.20.3242323_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0_Entity_10",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.23.3251117_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.23.3251117_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.23.3251117_4_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.23.3251117_4_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.23.3251117_4_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.23.3251117_4_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.23.3251117_4_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.23.3251117_4_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.23.3251117_4_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.25.3254676_1_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.25.3254676_1_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.25.3254676_1_Agent_3",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.25.3254676_1_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.25.3254676_1_Agent_5",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.25.3254676_1_Agent_6",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.25.3254676_1_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_0_Entity_6",
+    "predicted": "Police",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_0_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_1_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.11.3279945_3_Attacker_1",
+    "predicted": "Person",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.11.3279945_3_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.11.3279945_5_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.11.3279945_5_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.11.3279945_5_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.11.3279945_5_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.13.3283669_2_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.13.3283669_2_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.13.3283669_5_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.13.3283669_5_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.13.3283669_5_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.13.3283669_5_Artifact_2",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.14.3285847_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.14.3285847_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.14.3285847_4_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.14.3285847_4_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.14.3285847_4_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.14.3285847_4_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.19.3291980_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.19.3291980_3_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.19.3291980_3_Police_1",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.22.3297950_1_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.22.3297950_1_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.22.3297950_1_Agent_3",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.22.3297950_1_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_3_Entity_2",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_4_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_5_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_5_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_5_Place_1",
+    "predicted": "Artifact",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.27.3305148_0_Target_1",
+    "predicted": "Vehicle",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_0_Instrument_1",
+    "predicted": "Police",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_0_Police_1",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_0_Police_2",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_0_Police_3",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_0_Police_4",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_2_Entity_1",
+    "predicted": "Victim",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_2_Entity_2",
+    "predicted": "Target",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_2_Entity_3",
+    "predicted": "Victim",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_2_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_2_Instrument_2",
+    "predicted": "Victim",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_2_Police_1",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.08.3320391_0_Money_1",
+    "predicted": "Money",
+    "actual": "Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.08.3320391_0_Recipient_1",
+    "predicted": "Money",
+    "actual": "Recipient"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_0_Instrument_1",
+    "predicted": "Police",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_1_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2_Entity_10",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2_Entity_2",
+    "predicted": "Money",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2_Entity_7",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_4_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_4_Person_2",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_4_Person_3",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_4_Person_4",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_4_Person_5",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_5_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_5_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_5_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_5_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_5_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_5_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_5_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_5_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_5_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.13.3328601_0_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.13.3328601_2_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.16.3331907_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.16.3331907_0_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.16.3331907_0_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.16.3331907_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.17.3333843_0_Attacker_1",
+    "predicted": "Attacker",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.17.3333843_0_Attacker_2",
+    "predicted": "Person",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.17.3333843_0_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.17.3333843_0_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.20.3338580_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.20.3338580_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.30.3351608_2_Instrument_1",
+    "predicted": "Vehicle",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.30.3351608_2_Instrument_2",
+    "predicted": "Vehicle",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1_Agent_10",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1_Agent_3",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1_Agent_5",
+    "predicted": "Artifact",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1_Agent_6",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1_Agent_7",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1_Agent_8",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1_Agent_9",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.09.3369222_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.09.3369222_1_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.10.3370380_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.10.3370380_3_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.15.3376531_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.15.3376531_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.15.3376531_1_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.15.3376757_2_Artifact_2",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.15.3376757_2_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.21.3385836_0_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.26.3392569_1_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.26.3392569_1_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.26.3392569_1_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.26.3392569_1_Artifact_2",
+    "predicted": "Money",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.26.3392569_3_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.26.3392569_3_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.27.3393580_1_Place_1",
+    "predicted": "Vehicle",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.27.3393616_0_Place_1",
+    "predicted": "Person",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.27.3393616_5_Place_1",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.04.3403532_3_Victim_1",
+    "predicted": "Police",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.09.3410778_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.09.3410778_2_Entity_3",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.09.3410778_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.09.3410778_2_Entity_5",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.09.3410778_2_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.10.3411182_0_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.10.3411182_1_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.11.3412014_1_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.11.3412014_1_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.11.3412014_1_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.11.3412014_1_Agent_4",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.11.3412014_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.12.3415627_2_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.12.3415627_2_Agent_2",
+    "predicted": "Victim",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.12.3415627_2_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.12.3415627_3_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.12.3415627_3_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.12.3415627_3_Person_1",
+    "predicted": "Victim",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_0_Entity_2",
+    "predicted": "Police",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_10",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_11",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_12",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_13",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_3",
+    "predicted": "Police",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_7",
+    "predicted": "Police",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_2_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_2_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_2_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.19.3424061_1_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.19.3424061_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.19.3424061_3_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.23.3431608_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.23.3431608_5_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.23.3431608_5_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.23.3431608_5_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.23.3431608_5_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.23.3431608_5_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.23.3431608_5_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_0_Instrument_1",
+    "predicted": "Police",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_0_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_0_Instrument_3",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_0_Instrument_4",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_3_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_3_Agent_2",
+    "predicted": "Victim",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_3_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437456_0_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437456_1_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437456_2_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437456_2_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437456_2_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437601_1_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437601_1_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437601_1_Agent_3",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437601_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437601_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437601_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437601_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.10.3458597_2_Entity_2",
+    "predicted": "Participant",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.10.3458597_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.10.3458597_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.10.3458597_2_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.10.3458597_2_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.11.3460137_1_Artifact_1",
+    "predicted": "Victim",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.12.3461808_1_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.12.3461808_1_Victim_2",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.12.3461808_1_Victim_3",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0_Entity_1",
+    "predicted": "Artifact",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0_Entity_6",
+    "predicted": "Artifact",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_2_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_2_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_3_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_3_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_3_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_3_Police_1",
+    "predicted": "Person",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_3_Police_2",
+    "predicted": "Person",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2_Agent_3",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2_Agent_5",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2_Agent_6",
+    "predicted": "Agent",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2_Artifact_2",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2_Artifact_3",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2_Artifact_4",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.27.3483319_3_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.27.3483319_3_Victim_2",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_3_Artifact_1",
+    "predicted": "Vehicle",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_3_Artifact_2",
+    "predicted": "Vehicle",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_3_Artifact_4",
+    "predicted": "Agent",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_3_Artifact_5",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_3_Artifact_6",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_5_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_5_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_5_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_5_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_5_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_5_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_5_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.04.3493324_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.04.3493324_0_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.08.3498453_0_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.08.3498453_0_Artifact_2",
+    "predicted": "Animal",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.08.3498453_0_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.08.3498453_2_Artifact_1",
+    "predicted": "Entity",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.08.3498453_2_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.21.3519438_3_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.21.3519438_3_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3526898_0_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3526898_1_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527025_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527025_0_Instrument_2",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527025_0_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527025_1_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527400_3_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527400_3_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527400_3_Instrument_1",
+    "predicted": "Entity",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527400_3_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527400_3_Person_2",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527595_1_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527595_1_Artifact_2",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527595_1_Artifact_3",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527595_1_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527595_1_Vehicle_2",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527595_1_Vehicle_3",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527595_1_Vehicle_4",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.01.3532811_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.01.3532811_0_Instrument_1",
+    "predicted": "Agent",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.01.3532811_1_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.09.3542777_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.09.3542777_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.09.3542777_1_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.13.3549797_0_Artifact_1",
+    "predicted": "Agent",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.13.3549797_0_Artifact_2",
+    "predicted": "Agent",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.13.3549797_3_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.18.3556203_4_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.18.3556203_4_Artifact_2",
+    "predicted": "Police",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.18.3556203_4_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.18.3556203_4_Vehicle_2",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.18.3556203_4_Vehicle_3",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.18.3556203_4_Vehicle_4",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_0_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_0_Artifact_2",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_0_Artifact_3",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_0_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_0_Vehicle_2",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_0_Vehicle_3",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_2_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_2_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_1",
+    "predicted": "Artifact",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_10",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_11",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_12",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_2",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_3",
+    "predicted": "Place",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_4",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_5",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_6",
+    "predicted": "Agent",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_7",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_8",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Artifact_9",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_10",
+    "predicted": "Person",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_11",
+    "predicted": "Person",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_2",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_3",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_4",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_5",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_6",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_7",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_8",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_9",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.25.3565688_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.25.3565688_2_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.31.3572766_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.31.3572766_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.31.3572766_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.31.3572766_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.06.3583381_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.06.3583381_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.06.3583381_4_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.06.3583381_4_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.06.3583381_4_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.06.3583381_4_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589149_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589149_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589149_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589149_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589149_4_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589252_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589252_0_Entity_10",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589252_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589252_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589252_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589252_0_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589252_0_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589252_0_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589252_0_Entity_9",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.10.3590360_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.10.3590360_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.10.3590360_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.10.3590360_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.10.3590360_5_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.18.3602889_2_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.18.3602889_2_Victim_2",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.18.3602889_2_Victim_3",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.18.3602889_2_Victim_4",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.22.3607054_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.22.3607054_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.22.3607054_4_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.28.3614228_3_Target_1",
+    "predicted": "Place",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_0_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_0_Victim_2",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_0_Victim_3",
+    "predicted": "Vehicle",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_0_Victim_4",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_0_Victim_5",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_0_Victim_6",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_0_Victim_7",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_0_Victim_8",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_1_Target_1",
+    "predicted": "Vehicle",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3616534_0_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3616534_0_Artifact_1",
+    "predicted": "Place",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3616534_0_Vehicle_1",
+    "predicted": "Person",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3616534_1_Attacker_1",
+    "predicted": "Agent",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.09.3630378_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.09.3630378_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635600_0_Target_1",
+    "predicted": "Place",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635600_0_Target_2",
+    "predicted": "Place",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635600_5_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635600_5_Artifact_1",
+    "predicted": "Agent",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635600_5_Artifact_2",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_3_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_4_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_6_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_8_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_8_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_9_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_9_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_9_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_1_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_1_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_1_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Instrument_4",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2_Instrument_5",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.20.3643261_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.20.3643261_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.20.3643261_2_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.20.3643261_2_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.20.3643261_2_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.20.3643261_2_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.20.3643261_2_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.20.3643261_2_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.27.3653223_0_Entity_1",
+    "predicted": "Police",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.27.3653223_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Instrument_4",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Instrument_5",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Instrument_6",
+    "predicted": "Money",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0_Instrument_7",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654650_0_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654650_0_Victim_2",
+    "predicted": "Place",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654650_1_Agent_1",
+    "predicted": "Attacker",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654650_1_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654650_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.16.3678417_0_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.16.3678663_0_Agent_1",
+    "predicted": "Victim",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.16.3678663_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.16.3678663_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.16.3678663_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.19.3676842_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.19.3676842_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.19.3676842_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.19.3676842_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.19.3676842_0_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.19.3676842_0_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_0_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_0_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_0_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_1_Place_1",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_2_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_2_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_2_Instrument_3",
+    "predicted": "Money",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_4_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_4_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.22.3686805_3_Instrument_1",
+    "predicted": "Place",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.22.3686805_3_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.22.3686805_3_Place_1",
+    "predicted": "Place",
+    "actual": "Place"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.22.3686805_4_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.22.3686805_4_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.28.3696450_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.28.3696450_0_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.30.3699018_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.30.3699018_2_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.30.3699085_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.30.3699085_0_Instrument_1",
+    "predicted": "Agent",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.30.3699085_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.30.3699085_3_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.01.3702375_0_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.01.3702375_0_Agent_2",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.01.3702375_0_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.01.3702375_0_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.01.3702375_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.01.3702375_0_Person_2",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.02.3702962_0_Entity_1",
+    "predicted": "Agent",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.02.3702962_0_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.03.3705362_1_Instrument_1",
+    "predicted": "Vehicle",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.03.3705362_3_Target_1",
+    "predicted": "Place",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.14.3724228_0_Money_1",
+    "predicted": "Money",
+    "actual": "Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.14.3724228_0_Money_2",
+    "predicted": "Money",
+    "actual": "Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.14.3724228_1_Giver_1",
+    "predicted": "Artifact",
+    "actual": "Giver"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.14.3724228_1_Money_1",
+    "predicted": "Money",
+    "actual": "Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.14.3724228_1_Recipient_1",
+    "predicted": "Person",
+    "actual": "Recipient"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_0_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_0_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_0_Person_1",
+    "predicted": "Agent",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_1_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_3_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_3_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_3_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_3_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_3_Instrument_2",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_3_Instrument_3",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_3_Instrument_4",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_3_Instrument_5",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.17.3729391_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.17.3729391_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.17.3729391_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.17.3729391_1_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_1_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_10",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_11",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_12",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_13",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_2",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_3",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_4",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_5",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_6",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_7",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_8",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5_Person_9",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.23.3736556_2_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.23.3736556_2_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.23.3736556_2_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.23.3736556_2_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.23.3736556_2_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.23.3737435_1_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.23.3737435_1_Agent_2",
+    "predicted": "Artifact",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.23.3737435_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.24.3739026_2_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.24.3739026_2_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.24.3739026_2_Vehicle_2",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.15.3767889_3_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.16.3769606_2_Victim_1",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.19.3772413_0_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.19.3772413_0_Victim_2",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.19.3772413_0_Victim_3",
+    "predicted": "Victim",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.19.3772413_1_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.19.3772413_2_Victim_1",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.19.3772413_2_Victim_2",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.21.3775715_1_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.21.3775715_1_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.21.3775715_1_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.27.3783190_2_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.27.3783190_2_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.27.3783190_2_Agent_3",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.27.3783190_2_Person_1",
+    "predicted": "Victim",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.27.3783190_3_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.27.3783190_3_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.27.3783190_3_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.05.3797975_4_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.05.3797975_4_Victim_2",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.05.3798460_2_Agent_1",
+    "predicted": "Attacker",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.05.3798460_2_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.05.3798460_2_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.07.3800274_1_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.07.3800274_1_Artifact_1",
+    "predicted": "Victim",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.07.3800274_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.07.3800274_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.13.3808915_2_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.13.3808915_2_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.13.3808915_2_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_1_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_1_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_1_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_1_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_1_Entity_7",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_1_Entity_8",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_4_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_4_Police_1",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_4_Police_2",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_4_Police_3",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_4_Police_4",
+    "predicted": "Police",
+    "actual": "Police"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.24.3823632_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.24.3823632_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.24.3823632_4_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_10",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_11",
+    "predicted": "Place",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_12",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_13",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_2",
+    "predicted": "Agent",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_3",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_4",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_5",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_6",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_7",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_8",
+    "predicted": "Money",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1_Victim_9",
+    "predicted": "Artifact",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.28.3829747_0_Giver_1",
+    "predicted": "Money",
+    "actual": "Giver"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.28.3829747_0_Money_1",
+    "predicted": "Money",
+    "actual": "Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.28.3829747_0_Recipient_1",
+    "predicted": "Money",
+    "actual": "Recipient"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.01.3832748_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.01.3832748_0_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.01.3832748_0_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.04.3838167_0_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.04.3838167_0_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.04.3838167_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.04.3838167_1_Instrument_1",
+    "predicted": "Police",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.08.3842885_1_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.08.3842885_1_Person_1",
+    "predicted": "Victim",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.14.3850909_0_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.14.3850909_0_Artifact_1",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.14.3850909_0_Artifact_2",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.14.3850909_0_Artifact_3",
+    "predicted": "Person",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.14.3850909_0_Artifact_4",
+    "predicted": "Police",
+    "actual": "Artifact"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.14.3850909_0_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.14.3850909_2_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.14.3850909_2_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.15.3851683_2_Vehicle_1",
+    "predicted": "Person",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.15.3851683_3_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.15.3851683_4_Vehicle_1",
+    "predicted": "Vehicle",
+    "actual": "Vehicle"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_2_Agent_1",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_2_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_2_Agent_3",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_2_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_2_Person_2",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_2_Person_3",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_2_Person_4",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_0_Attacker_1",
+    "predicted": "Person",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_0_Instrument_1",
+    "predicted": "Agent",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_0_Target_1",
+    "predicted": "Person",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1_Agent_3",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1_Agent_4",
+    "predicted": "Person",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1_Person_1",
+    "predicted": "Police",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1_Person_2",
+    "predicted": "Participant",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1_Person_3",
+    "predicted": "Agent",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1_Person_4",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1_Person_5",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1_Person_6",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.07.3891137_1_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.07.3891137_1_Entity_2",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.07.3891137_1_Entity_3",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.07.3891137_1_Entity_4",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.07.3891137_1_Entity_5",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.07.3891137_1_Entity_6",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.07.3891137_3_Entity_1",
+    "predicted": "Person",
+    "actual": "Entity"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.07.3891137_3_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.15.3901731_2_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.15.3902402_3_Agent_1",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.15.3902402_3_Agent_2",
+    "predicted": "Police",
+    "actual": "Agent"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.15.3902402_3_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_0_Instrument_1",
+    "predicted": "Place",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_2_Instrument_1",
+    "predicted": "Vehicle",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_4_Attacker_1",
+    "predicted": "Person",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_4_Instrument_1",
+    "predicted": "Instrument",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_5_Attacker_1",
+    "predicted": "Person",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_5_Attacker_2",
+    "predicted": "Person",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_5_Attacker_3",
+    "predicted": "Person",
+    "actual": "Attacker"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_5_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_5_Instrument_2",
+    "predicted": "Entity",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_5_Instrument_3",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.26.3916532_2_Instrument_1",
+    "predicted": "Person",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.26.3916532_2_Victim_1",
+    "predicted": "Person",
+    "actual": "Victim"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.07.10.3936006_2_Target_1",
+    "predicted": "Place",
+    "actual": "Target"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.07.10.3936006_5_Instrument_1",
+    "predicted": "Artifact",
+    "actual": "Instrument"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.07.10.3936006_5_Person_1",
+    "predicted": "Person",
+    "actual": "Person"
+  }
+]

@@ -1,0 +1,1957 @@
+[
+  {
+    "image_id": "VOA_EN_NW_2016.10.13.3549797_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.31.3572766_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.04.3219688_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.02.2845998_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.11.09.2508360_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.31.1841956_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.27.3393616_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.15.3851683_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.14.3190340_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.15.1791049_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.27.3783190_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.28.2793713_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.18.3290978_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.13.2556485_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.15.3901731_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.05.3090416_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.19.3676842_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527400_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.03.18.1623546_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.02.1653029_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.15.2551521_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.27.2696792_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.01.3832748_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.01.2987042_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.13.3808915_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.21.2689721_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.08.2908562_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3616534_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.27.1758726_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_1",
+    "predicted": "Movement:Transport",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.14.3850909_0",
+    "predicted": "Movement:Transport",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589149_3",
+    "predicted": "Movement:Transport",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.13.3283669_5",
+    "predicted": "Movement:Transport",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_2",
+    "predicted": "Movement:Transport",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.21.1794874_1",
+    "predicted": "Movement:Transport",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.13.3142975_0",
+    "predicted": "Movement:Transport",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.12.3415627_2",
+    "predicted": "Movement:Transport",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_0",
+    "predicted": "Movement:Transport",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.08.1696918_0",
+    "predicted": "Movement:Transport",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_0",
+    "predicted": "Movement:Transport",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.13.3328601_0",
+    "predicted": "Movement:Transport",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.10.3458597_2",
+    "predicted": "Movement:Transport",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_3",
+    "predicted": "Movement:Transport",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.20.3338580_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.20.2422182_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.12.31.1820694_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654540_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.01.3214677_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2889903_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.11.3412014_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.18.3556203_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.24.3823632_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.04.3219688_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.27.3393580_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2009.12.13.416444_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.16.3331907_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.19.3291980_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.22.3297950_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.17.3333843_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.14.2767071_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.02.3358563_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.06.3583381_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.05.3037829_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.11.2959960_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_6",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.04.16.1894548_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.03.2896400_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.14.3724228_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Transaction:Transfer-Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.27.3783190_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.14.3285847_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.15.2551521_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.13.3283669_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.23.3737435_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.19.3424061_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.24.3739026_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.04.03.1634074_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.09.3542777_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654650_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.14.3190340_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.17.3729391_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.11.3460137_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.17.2562583_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.19.3772413_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779954_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.28.3654650_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.21.1587732_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.10.1581113_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.25.3565688_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.22.3686805_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2009.12.09.416313_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.19.3424061_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.10.3411182_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.10.09.2478154_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.11.3460137_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.17.3194684_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.04.3493324_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.17.3729391_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.01.3702375_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.21.3519438_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.12.3415627_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.04.2902011_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.09.10.2444962_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.31.3572766_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.17.2562583_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913549_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.26.3916532_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.15.3767889_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.07.2995399_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.10.3590360_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.08.09.1726740_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Transaction:Transfer-Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.17.3106664_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.20.2605914_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3615580_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.19.3472017_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.09.12.1506267_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.12.3461808_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.28.1592104_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.08.3320391_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Transaction:Transfer-Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527400_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.11.3279945_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.06.03.1928789_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.16.2600974_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.28.3614228_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.12.1912526_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.22.1835368_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.07.3891137_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.01.3264272_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.30.3699018_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527595_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.25.2978237_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437456_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.18.3243744_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Transaction:Transfer-Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.05.2749920_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.18.2922213_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.03.24.1877778_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184933_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.21.3385836_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.30.3351608_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.19.3197746_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.25.2573211_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.05.2668808_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.22.3686805_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.14.3417836_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.22.3607054_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.15.3191284_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.27.3305148_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.27.3436565_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.26.3022860_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.30.2743015_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.12.1912526_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.17.3469525_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.23.3251117_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.15.3902402_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.09.1746134_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.08.2760181_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.10.3370380_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074855_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.23.3431608_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.02.2942501_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.05.26.1105689_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.04.3838167_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.22.3686805_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.15.3851683_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.21.3519438_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.27.1758726_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.10.3590360_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3131977_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589149_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.08.14.1729937_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.05.3038535_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.12.3327048_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.15.3726266_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.19.3772413_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.11.3279945_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.05.26.1105689_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.07.2405842_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.05.3037829_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.21.3910361_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.18.3012400_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.08.11.2913225_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.08.1696918_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779954_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.08.3842885_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.09.05.2949130_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635600_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.01.3532811_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.19.2685042_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.03.02.1862314_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.19.2685042_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.19.3557471_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437456_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.16.3769606_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779904_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.29.2577251_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.17.3854850_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.21.3017239_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.08.07.2405842_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.24.3300395_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.16.2865144_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.13.3549797_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.15.3851683_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527025_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.21.1587732_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.27.1711271_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.25.3825261_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.20.3685521_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.01.3832748_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.13.3328601_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.17.2562583_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184811_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.05.2749920_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.17.2562583_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.04.3838167_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.10.3184811_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.10.1787498_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.27.2697067_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.06.3133182_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.14.3850909_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437456_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.02.3491404_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_8",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.09.3410778_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.07.3800274_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.07.3800274_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.04.10.2713895_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.29.3616534_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.05.3132000_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.17.3679550_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.22.1920650_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.06.26.2838241_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.23.1666803_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.10.01.3532811_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.23.3115897_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.16.2560677_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.27.3393616_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.20.1794343_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635692_9",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.16.3769606_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.31.3878829_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.01.3832748_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.23.3736556_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.20.3643261_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.20.3242323_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.22.1920650_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.10.1581113_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.17.3640413_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.28.3829747_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Transaction:Transfer-Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437601_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.07.14.1957332_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.10.3411182_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.05.08.2747846_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.04.3403532_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.13.1749095_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3527025_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.15.3376757_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.05.3797975_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.23.3431608_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.21.2689721_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3526898_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.05.23.1666803_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.01.20.2605914_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.20.3242323_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.02.08.3181623_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.22.3734870_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.27.3653223_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.07.31.2888384_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.08.3498453_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.12.10.1562068_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.05.01.3832748_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.16.3678417_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.14.3635600_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.28.3166988_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.06.07.3891137_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.10.3411182_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.30.3699085_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.26.3392569_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.16.3678663_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.20.3818034_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.12.08.3093406_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.03.3705362_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.18.3602889_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.07.10.3936006_5",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.19.3772413_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.11.05.1784209_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.07.28.3437601_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.01.06.1823838_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.26.3392569_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.05.11.3325807_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.04.2667016_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.11.26.3074696_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.12.09.3630378_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.12.02.2542349_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.08.3498453_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.21.3247676_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.03.21.2689721_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2012.05.26.1105689_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.21.3775715_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.14.3724228_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Transaction:Transfer-Money"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.09.13.1749095_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.24.3823632_4",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.09.3369222_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.10.30.1779954_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.09.27.3526898_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.01.07.3135549_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.09.3589252_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.02.3702962_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.01.28.1592104_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.02.03.3705362_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.07.10.3936006_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.03.25.3254676_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Movement:Transport"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.04.30.3309655_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2015.10.07.2995399_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.08.27.3483319_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.04.05.3798460_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.30.3699085_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2013.07.08.1696918_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Demonstrate"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.16.3678663_2",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  },
+  {
+    "image_id": "VOA_EN_NW_2014.05.25.1921616_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.01.28.3696450_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Phone-Write"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.28.3614228_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Conflict:Attack"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.11.18.3602889_0",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Life:Die"
+  },
+  {
+    "image_id": "VOA_EN_NW_2017.03.15.3767889_3",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Justice:Arrest-Jail"
+  },
+  {
+    "image_id": "VOA_EN_NW_2016.06.15.3376531_1",
+    "predicted": "Conflict:Demonstrate",
+    "actual": "Contact:Meet"
+  }
+]
